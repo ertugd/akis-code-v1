@@ -1,0 +1,13 @@
+{
+  "name": "ft_squash_beam4",
+  "model": "outputs/ft_squash/best",
+  "csv": "data/akis/test.csv",
+  "layout": "squash",
+  "num_beams": 4,
+  "CER": 0.13057185209929642,
+  "WER": 0.4279190135484853,
+  "CER_lower": 0.12275836183167904,
+  "WER_lower": 0.4050844877454712,
+  "line_accuracy": 0.06592039800995025,
+  "n": 804
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ft_fold_beam4",
+  "model": "outputs/ft_fold/best",
+  "csv": "data/akis/test.csv",
+  "layout": "fold",
+  "num_beams": 4,
+  "CER": 0.1324926404576487,
+  "WER": 0.43796620490181154,
+  "CER_lower": 0.12423888564517474,
+  "WER_lower": 0.41680621099101844,
+  "line_accuracy": 0.06218905472636816,
+  "n": 804
+}

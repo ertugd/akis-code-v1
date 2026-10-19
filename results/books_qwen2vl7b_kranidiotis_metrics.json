@@ -1,0 +1,11 @@
+{
+  "name": "books_qwen2vl7b_kranidiotis",
+  "model": "models/qwen25vl-7b-ottoman",
+  "csv": "data/akis_books/test.csv",
+  "CER": 0.8492956938896428,
+  "WER": 1.060229445506692,
+  "CER_lower": 0.8474262248113839,
+  "WER_lower": 1.0595465719748702,
+  "line_accuracy": 0.0,
+  "n": 937
+}

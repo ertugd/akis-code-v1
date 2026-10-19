@@ -1,0 +1,13 @@
+{
+  "name": "books_squash_aug_e20_beam4",
+  "model": "outputs/books_squash_aug_e20/best",
+  "csv": "data/akis_books/test.csv",
+  "layout": "squash",
+  "num_beams": 4,
+  "CER": 0.19754974102176945,
+  "WER": 0.5613220431576073,
+  "CER_lower": 0.19008690669468054,
+  "WER_lower": 0.5423381589729582,
+  "line_accuracy": 0.03735325506937033,
+  "n": 937
+}

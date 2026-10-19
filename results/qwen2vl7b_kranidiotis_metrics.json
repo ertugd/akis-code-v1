@@ -1,0 +1,11 @@
+{
+  "name": "qwen2vl7b_kranidiotis",
+  "model": "models/qwen25vl-7b-ottoman",
+  "csv": "data/akis/test.csv",
+  "CER": 0.8676743846169906,
+  "WER": 1.0812909118587304,
+  "CER_lower": 0.8648761364584202,
+  "WER_lower": 1.0797686101385295,
+  "line_accuracy": 0.0,
+  "n": 804
+}

@@ -1,0 +1,805 @@
+id,text,pred
+test_00000,"- Bir şey yok Perrancığım... dedi; hiç korkma... Burada,","- Bir şey yok parancığım... dedi; hiç korkmak... Burada,"
+test_00001,idi! Ana güzel baba güzel olur ve bir,idi! Anan güzel babaküzel olur ve biri
+test_00002,gelirlerdi. Na‘lıncı Hüseyin Çelebi ise gûyâ yangın görmemiş gibi dükkânda,kâyırlardı. Nâlinci Hasan Çelebi ise gûyâ yangın görümüyormuş gibi değânda
+test_00003,edenlere âşikâr ‘amûdlardır. Gerçi ‘amûdlar münhedim olub pâymâl-i bahr-ı tiyâr ammâ,edenlere ankâr ‘amûdardır. Gerçe ‘amûdlar münhedim olub paymâl-ı bahretiyâr amâ
+test_00004,-Ne zanneyledin ya?,- Ne zannedin ya?
+test_00005,"Ve Kerim gibi hiç değilse vahşi bir hamle ile üzerine atılmasa bile,","ve Kerim gibi hiç değilse ve huşi bir hamle ile üzerine atılmasa bile,"
+test_00006,"istizah başladığı zaman, ortada münekkit, azimkâr bir ekseriyet vardı.” “Münekkitler bu vaziyeti","istizah başladığı zaman, orte de münakkit, azmekler bir ekseriyet vardı.” “Münktez bir bu rağayeti"
+test_00007,keskin bir neşterle teşrih ediyordu.,keskin bir niştirle teşrin ediyordu.
+test_00008,"ediyordum. Evet, işte nihayet İstanbul’unuza geldik. Bunun için asıl","ediyordum. Evet, işte nihayet İstanbul’unuza geldik. Bunun için asıl"
+test_00009,en uzak bir yerde bulunan bir ailenin mahremiyyet-i ahvaline,en uzak bir yerde bulunan bir ailenin mahremiyet ahvaline
+test_00010,"yolunda, yokuşun kenarında, biraz gerideki çamların âguşuna gömülmüş","bulunda, yokuşun kenarında, biraz girideki çamların âguşuna gömülmüş"
+test_00011,pek lütufkâr bir tahlis sayılır. Bu mektubu eline,pek lütufkâr bir tahliyor sayılır. Bu mektubumu elki
+test_00012,vardı. Öyle bir hâl ki karşınızda hasta bir kadını gören merhametli,vardı. Öyle bir hâli ki karşınızda hasta bir kâbbini gören merhametli
+test_00013,diler.,diler.
+test_00014,türlü derhatır edemiyorum Hay kâfir tabir neydi o?,dürlu derhâdır edemiyorum. Hay kâfir tabir ne idi o?
+test_00015,"11 Eylül’de ve 11/12 Eylül’de Malatya ile telgraf başında vuku bulan muhhaberât, henüz Malatya’da","11 Eylül’de ve 11/12-1 ilvade mülâtiyye ile telgraf başında vuku bulan muhaberât, henüz-ı mülâtiyye’de"
+test_00016,"tashih etti: Doktor Bey, “altı yüz sene evvel, Arnavutluk’un bir kısmından olan Yanya’ya","tashih etti: Doktorun, “Alleti yüzsüne evvel, Ârâvıdığın bir kısmından olan yanaya"
+test_00017,Kaf 20 Kumandanlığı’na,K. Kumandanlığı’na
+test_00018,"câmi’ parçalara tesâdüf olunuyor, nunlara şiir, kâ’illerine","Câmi‘ pâriclere tesadüf olunuyor, bunlara şiir, kâ’ellerine"
+test_00019,Hamâm-ı Pâdişâhân Âl-i Osmân- Sultân Murâd-ı Râbi‘- bu hakiri okudub,hamâm pâdişâhân al-ı ‘Osmân- Sultân Murâd-ı Râbi‘ bu hakîri okudub
+test_00020,"bir neşesizlik, soğuk bir resmiyet hüküm-ferma...","bir neşe sizlik, soğuk bir resmiyet hükmüframa..."
+test_00021,"kiremitciyân: dükkân (35), nefer (500). Esnâf-ı kerpiçciyân: dükkânları",gire müteciyân: Dükkân (10) nefer (500). Esnâf-ı geriçiyân: Dükkânları
+test_00022,Ne çare ki iradeyi bu fende bulmuşdı!..,ne çare ki idâreyi bu finde bulmuşdu!..
+test_00023,Ahmed Paşa) ve kırk ‘aded mîrimîrânlar ve sâ’ir bî-imân hisâbsız mîrilivâlar bana ‘âsî,Ahmed Paşa) ve kırk ‘aded-i mîr-i mîrîrânlar ve sâ’ir-i bîmân-ı hisâbsiz mîrlevâlar bana âsı
+test_00024,"- A, durunuz kızım, Fehamet’e haber vereyim... Ne kadar sevinecektir","- A, durunuz kızım, Fehamete haber vereyim... Ne kadar söyüncektir"
+test_00025,Ammâ o kadar şîrîn binâ olunmuşdur ki gerüden gören bir kasr-ı müzeyyen zanneder.,Ammâ o kadar şîrîn binâ olunmuşdur ki girden gören bir kasır-ı müzeyyen zann eder.
+test_00026,Kabr-i pürenvârları Ayasofya hareminin Dîvânyolu köşesinde serâpâ beyâz,kabır pürenûrları Ayasofya harminin dîvân yolu köşesinde serâpeyâ beyâz
+test_00027,sancakdârı bu idi hâlâ sancakdârların silsilesi anda nihâyet bulur. Alî,sancakdârı bu iki hâlâ sanca kadarların silisesi anda nihâyet bulur. ‘Alî
+test_00028,İslâma du‘âlar ederek kadıasker alayı içre ubûr ederler.,İslâma du‘âlar ederek kadı ‘askerülâyı içre ubûr ederler.
+test_00029,çoluk çocuk üç yüzden mütecaviz bir halk,çok çocuk uç yüzden mütecavüz bir halk
+test_00030,binâ etmişlerdir. Ve sonrada Galata içre o civarda bir câmi‘ bina etdikleriçün,binâ etmişlerdir. Ve sonra da gâtıla içre o civârda bir câmi‘ binâ etdikler için
+test_00031,iktidarını Heyet-i Murahhasa’dan selp etmektedir. Hükümetçe tercih buyurulan bu şeklin 93 Seferi’nin,iktidarını Heyet-i murahhasadan Sâb etmektedir. Hükûmetçe tercih buyurulan bu şekkin 35’saferının
+test_00032,Solyotlar iki büyük fırkaya münkasım,Solyotlar iki büyük fırkaya münaksüm
+test_00033,adam var! Vakit kaybetmeyip başınızı,adam var! Vakit kayb etmeyip başınızı
+test_00034,Böyle bir adamın Solyotlar gibi namuslu bir kavim,Böyle bir adamın Solyotlar gibi namuslu bir kom
+test_00035,Yûsuf Paşa Hadisesi,Bu sef Paşa hadisesi
+test_00036,etmiş olacağını biçare Eftimi'ye,etmiş ola ceganı niçare Eftimi'ye
+test_00037,tevdi edilen şu çocuk halceğizine,tüdü’i edilen şu çocuk hâlcınızına
+test_00038,ulûfeli âdemlerdir. Geri kalanları her gece sabâha dek İstanbul içre,ulûfeli âdemlerdir. Keri kalanları her gece sabahadın İstanbul içre
+test_00039,(.....)dir. Kabri (Ayasuluk) şehr-i kadîmindedir. İslâm ile irtihâlinde,(.... (der). Kabri (Ayasulûk) şehir kadîmendir. İslâm ile irtihâlinde
+test_00040,zikredilen Hacı Âkif Ağa’nın hanesi oldukça kasaba haricinde bulunduğundan,Zekr edilen câci-i Âkif âgânın hânesi oldukça kasibe Hâricinde bulunduğundan
+test_00041,dedim ki bana lazım olan şey onların ittifakı,dedim ki bana lazım olan şey onların ittifakı
+test_00042,Ne yapabileceğini yine düşünmeye başlar. Gönderdiği tazallümnameye,ne yapabileceğini yine düşünmeye başlar. Gönderdiği tazlümanaya
+test_00043,kahkahalar da o kadar beyhude değilmiş.,kahkalarda o kadar bihude değilmiş...
+test_00044,lazım. Bunlardan fazla bir de dört yaşında çocuk,lazım. Bunlardan fazla bir de dört yaşında çok
+test_00045,-Evet. Uçurumun üstünden kendini atdığı muhakkak olan...,-Evet. Üçürümek üstünden kendini andığı muhakk olan...
+test_00046,ʿİsmet,düyüz
+test_00047,[Vesika: 215],[Vesika: 151]
+test_00048,derdini hemen anlayarak ona hitaben söze başladı:,dördünü hemen anlayarak ona hitaben söze başladı:
+test_00049,- Bakalım başka daha neler var? diye Perran paketi yanına getirtti.,- Bakalım başka daha neler var? diye Perran pikati yanına getirtti.
+test_00050,‘ulemâları ana cevâb vermekden izhâr-ı ‘âciz ederlerdi. Gûyâ İmâm-ı Â‘zam-ı sânî,‘âlemleri ana cevâb vermekten izhar acz ederlerdi. Gûyâm-ı â‘zam-ı sânî
+test_00051,"battığını, kimsenin kurtulmadığını öğrenerek harap oldum, matem","batığını, kimsenin kurtulmadığını öğrenerek harap oldum, matem"
+test_00052,bîmana nazariyâtla inkâra mahal yoktur.,bî münnâ nazariyâtla inkâra mahal yoktur.
+test_00053,"Makâm-ı mâyede, devr-i revân usûlünde bu beste anlarındır:","mukâm-ı mâyede, dûr-ı revân-ı usûlinde büyeste anlarıktır:"
+test_00054,Çingene gelini sus.. Yanımda genç kız var.. Yüzü,Çingâne gelini sus... Yanımda genç kız var.. Yüzü
+test_00055,Kalbi hunhar elemlerin pençesinde kanarken birdenbire kocasının,kalı hunhar elimlerin pençmesinde kanarken birdenbire kocasının
+test_00056,"- A, bu bizde var ya, diye haykırdı.","- A, bu bizde varya, diye haykırdı."
+test_00057,tekrarına hâcet yoktur.,tekirarına hacet yoktur.
+test_00058,masun kalmalı değil miydi?,Musun kalmalı değil miydi?
+test_00059,"ettiği: “Alimallah hanıma söylerim” cümlesi,","ettiği: “Alim o hanıma söylerim” cümlesi,"
+test_00060,-Çocuk... Seni seviyorum.,-Çocuk... Seni seviyorum
+test_00061,Avlusunda akşam taamını bitirmek üzere bulunurlar.,avlusunda akşam tamını bitirmek üzere bulunurlar.
+test_00062,kapayarak koşdu. Yere çamurların üstüne diz çökdü. Dizleriyle,kapayarak koştu. Ve re çamurların üstüne diz çündü. Dîzleriyle
+test_00063,"Bütün İstanbul, bütün Beyoğlu sokaklara dökülmüş... İnsan","bütün İstanbul, bütün Bey oğlu sokaklara dökülmüş... İnsan"
+test_00064,olayım. Benden ikrah ediyor musun?,olayım. Benden eğra ediyor musun?
+test_00065,ʻaliyyesinden bahşâyiş ü atiyye ve izzet ü mezellet meşiyyet-i,aleyh-i senden bahşâyiş ve ʻatiyye ve ‘azet ve mezlet-i müşebbüs-i
+test_00066,"tefekkürlere dalmış, sıkıntıdan mosmor morarmıştı.","tefkirlere dalmış, sıkıntıdan Mûs-ı Mor mor morarmıştı."
+test_00067,piçin Hristiyanlar elinde paralanmış olmasını,peyçin hristiyanlar elinde paralınmış olmasını
+test_00068,eyledi. Halbuki çobanla çalgıcı,eyledi. Halbuki çoban ile çalgıcı
+test_00069,mercan bilezikleri ve siyah saçlarının arasından uzayıp omuzlarını,mercân bile zîkleri ve siyah saçlarının arasından uzayıp omuzlarını
+test_00070,"oradan söküp atmak, onun yerini meşruuyla doldurmakla","oradan söküp atmak, onun yerini meşraviyle doldurmakla"
+test_00071,"Bundan başka, memleketin her tarafında, anasır-ı Hıristiyaniye hafî, celî, hususî emel","Bundan başka, memleketin her tarafında, ansır Hristiyanıya hani, Celi, hususu emvel"
+test_00072,unvanının tevcihini benden talep etmişti. O zamanlar Re’fet Bey’in gerek birinci ve gerek ikinci arzularını,‘unanının tevciini benden talep etmişti. O zamanlar Re’fet Bey’in kerininin ve girk ikinci arzolarını
+test_00073,ne büyük bir felakettir.,ne büyük bir felakettir.
+test_00074,"İzmit’te bulunan birinci Fırka, İstanbul’daki Yirmi beşinci Kol Ordu’ya rapt edilmişti.","İzimiyet’te bulunan birinci fırka, İstanbul’daki yirmişinci Kolorduya ve bitt edilmişti."
+test_00075,tazallümüyle bağırdı.. Bağırdı...,tazlımıyla bağırdı... bağırtı...
+test_00076,Takdim rasimesi ifa edilerek herkes oturduğu zaman Fahri,takdim rasması ifa edilerek herkes oturduğu zaman Fahri
+test_00077,"bir dal parçası bile kalmamıştır... Sen bir kere bilsen, bilsen ki bir","Bir dal parçası bile kalmamıştır... Sen bir kere bilsen, bilsen kebir"
+test_00078,bir fırka kumandanı yeni kolordu kumandanı olmuş; biraz da tecrübesiz! Henüz iktisab-ı tecrübeye,bir fırka kumandanı yeni kol Ordu Kumandanı olmuş; biraz da tecrübesiz! Henüz iktisap tecereye
+test_00079,"Fahri Cemal, yataktan kalkarak, dedi ki:","Fahri Cemal, yataktan kalkarak, dedi ki:"
+test_00080,emir vermiş olmak için emir vermezler. Lüzumlu ve kabiliyet-i icraiyesi olan hususları emr,emr vermiş olmak için emr vermezler. İzumlu ve kabiliyet icra’iyesi olan hususları emr-i
+test_00081,bi’l-husus muntazam ve yirmi beş yaşına göre biraz çokça,bahusus müntazam ve yirmi beş yaşına göre birazçokça
+test_00082,"Devletin hayatını kemiren, kendi dahilindeki anasır hakkında tedabir almaktan men’ edilirdi.","devvelenin hayatı kemiren, kendi dahilindeki anasır hakkında tedabir almaktan menf edilirdi."
+test_00083,olmaz bir hakim-i mutlak olmakla Eftimi denilen,olmaz bir hâkim mutlak olunlupla efimi denilen
+test_00084,"[Vesika: 107] Halk, belediye dairesinde içtima ederek Hoca Vehbî Efendi’yi vali vekâletine","[Vesika: 28] Halk, Beliye Dairesinde ictima ederek Hoca ve hebi Efendi’yi vali ve kâletine"
+test_00085,Evliyâ hayr du‘â ile dedi târîhin Kaya Sultân'ın ola rûhuna menzil Firdevs,Evliyâ Hayr-i du‘â-yâ ile diydi târîhîn-i kiyâ-sultânın ola ruhuna menzler-i fer-i
+test_00086,kapısı görünüyordu.,kapısı görüyordu.
+test_00087,"ağlamışımdır. Sebepsiz, manasız yaşlar... diye hayretlendi.","ağlamışım. Sebisimiz, manasız yaşlar... diye hayretliği."
+test_00088,edemeksizin Fuat’ın elini avucu içine alarak:,edemekizin Fuat’ın elini avcu içine alarak:
+test_00089,"- Tuvalet kabinesinin hem yatak odasına, hem","- Tavalet-i kabinesinin hem yatak odasına, hem"
+test_00090,"2- ‘Alî Fu’ad Paşa Hazretlerinin, buraya kadar teşriflerini lüzumlu görmekteyim.","2- ‘Alî Fu’âd Paşa Hazretlerinin, buraya kadar teşriflerini lüzumlu görmeğtim."
+test_00091,hamlesi olacaktı.,hamlesi olacaktı.
+test_00092,"feth buyurdukda Ebû Süfyân, Hakîm bin Hizâm, Bedîl bin Vertâ, ‘İkrime bin","feth buyurdukda Ebû sefîân, hâkîm bin hizâm, yedi bin ve rıtâ, ‘ikreme ben"
+test_00093,"dahilî teşkilâtıdır. Haricî siyaset, dahilî teşkilâtla mütenasip olmak lazımdır. Garpta ve şarkta",dahilî teşkilâtır. Hârici siyaset. Dâhilî teşkilâtla müteasip olmak lazımdır. Garî’de ve şarkta
+test_00094,"bir kumandan gelmekte olduğu haber alınınca, erbab-ı hamiyet canlanmış, diğer taraftan da Vali Cemâl","bir kumandan gelmekte olduğu haber alınca, erb-ı hamiyet cenilâtımış, diğer tarafından da valî Cemal"
+test_00095,gösteriyor. Nerîmân’a iki defa haber gönderdim,gösteriyor. Nerîmâne iki defa haber gönderdim
+test_00096,Hest târîh temîz ûrâ Nevverallâhu kabrehu nura,Hüst-i târîh-i temiz ora nûr-ı ile kubra nûrân
+test_00097,"hükümsüz şeylerdir, binâenaleyh bizce kavâid-i Arabî'ye ve Fârisî'ye","Hükimesiz şeylerdir, binaenaleyh bizce kavâid-i Arabiye ve Fârsiyeyi"
+test_00098,intiharıdır. Kendi aşkının alevlerinden ziyade masum,itiharidir. Kendi aşkın alavlarından ziyade masum
+test_00099,titrek ellerinin içinde sağa sola dönüyordu.,titrek ellerinin içinde sağa sola dönüyordu.
+test_00100,olan yüksek ağaçları vardı. Bazen bir kara,olan yüksek ağaçları vardı. Bazen bir kara
+test_00101,kırık dökük iskemleler serpilmiş. Diriler ölülere karışmış...,dökük iskemleler serbilmiş. Diriler ölülere karışmış..
+test_00102,Yoksa tamamıyla galebe eylediğiniz halde dahi,yoksa tamamıyla galebe eylediğiniz hâlde dahi
+test_00103,"Ve, tekrar bir cigara yakarak odada dolaşmaya başladı.","Ve, tekrar bir sigar yakarak odada dolaşmaya başladı."
+test_00104,"İnsan, herhangi bir emelinde ne kadar bedahetle bir inkisara",İnsan herhangi bir emilinde ne kadar bedahatle bir inkisara
+test_00105,etmeyeceğim.,etmeyeceğim.
+test_00106,"mezc edilmediği yerlerde ve işlerde, netice pek parlak da olsa, tez elden makûs ve mahkûm olduğu","Mez’c edildiği yerlerde ve işlerde, neticapın parlak da evvelse, tezyüz elden mekûs ve mahkûm olduğu"
+test_00107,"Kabul olundu. Müşîr Paşa, Fethî Bey’i ve Karabekir Paşa’yı aldı. Bahçeye çıktılar. İzah ettiğim","kabul olundu. Müşîr Paşa, fethi Bey’i ve karabekir Paşa’yı aldı. Bağça’ya çıktılar. izah ettiğim"
+test_00108,Bir cevap arıyordu. Oğlu büyük bir cüretle tekrar etti:,bir cevap-ı arayordu. Orğlu büyük bir cüre-i telletrikir eriyetti:
+test_00109,rek Nerîmân’ı o haneden çıkarmadan başka merdâne bir,rek-i nîmân’ı o haneden çıkarmadan başka merdane bir
+test_00110,"- Farz ediyorum ki ben meseleden haberdar olamadım, hiçbir","- Ferz ediyorum ki ben bu meseleden haberdar olamadım, hiç bir"
+test_00111,§ʿİsmet Paşa’ya şu cevabı verdim:,“İsmet Paşa’ya şu cevabı verdim:
+test_00112,içerisi paranın ve iptilanın toplayabileceği en harikaengîz musiki,içerisi Perran’ın ve İbtilanın toplaya bileceği en harka inciniz musiki
+test_00113,bu meydânın etrâfında mezkûr hâsodalar ile ma‘mûr u âbâdân edüb cümle,bu meydânın etrâfında mezkûr-ı hâs odalar ile ma‘mûr u âbâdân edüb cümle-
+test_00114,Ali Ağa şurasını tahattür edememiş ki bir buçuk asır sonra içtimai inkılaplar,Ali Ağa şurâsını tahattur edememişe bir bıçk asır sonra ictimâ‘ı inkâblar
+test_00115,"meşgul olduğundan şimdiye kadar, vezaif-i hilafeti tespit ile iştigale imkan bulamamıştır.",meşgul olduğundan şimdiye kadar vezaif hilâneti tespit ile iştigâh imkân bulamamıştır.
+test_00116,"yoldan denize doğru hareket etti, ve apartmanlar bittiği vakit sağa kırarak","yoldan değnedir ve guru hareket etti, ve âpartemanlar bu tettiği vakit sağırarak"
+test_00117,"atıldılar. Birbirine meydan vermeyerek testi testiye,","etildiler. Birbirine meydan vermeyerek desti destiye,"
+test_00118,vermem...,verim...
+test_00119,"mahal bulunmadığını serd ederek, nokta-i nazarımda ısrar ettim. Vaziyetin, Meclis’in taktir ve izah","mahl bulunmadığını serd ederek, nokta-i nazarrımda ısrar ettim. Vaziyetin, meclisin takdir ve izah"
+test_00120,"Efendiler; Garb Cephesi Kumandanı Ali Fuâd Paşa’nın, henüz Gediz muharebesinin cereyan",Efendiler; Garp Cephesi Kumandanı ‘Alî Fu’âd Paşa’nın” henüz Gedis Muharebesinin cereyan
+test_00121,kaldı. Haber-i mezkur gelmezden evvel yazacağı,kaldı. Haberimiz göreklerden evvel yazacağı
+test_00122,Bu nadir saadeti daima isteyenler muhakkak hüsrana mahkûm bedbahtlardı.,bu nadir saadeti daima isteyenler muhakkak hisrâne mahkûm bedbahtlerdi.
+test_00123,nistan yüzlerce milyona varan borcundan,nüstan yüzlerce meyliyone varan borcundan
+test_00124,tâc olduğundan bakmayarak fukarâlar ile çok kerre bu tekyede ta‘âm ü tenâvül etmişdir.,tâc oluduğundan bakmayarak fukarâr ile çok kere bu tekîde tâm-ı tanavül etmişdir.
+test_00125,oldu! Halbuki pazartesi günü de,oldu! Halbuki pazar etesi günü de
+test_00126,mahâret edüp geçerler.,mihâret edüb geçerler.
+test_00127,orada yattığını müşahede eylemiş idik.,orada yatığını müşahade eylemiş idin.
+test_00128,Fâtma uzun bir zaman onun yüzüne uzak bir nazarla bakdı...,Fâtma uzun bir zaman onun yüzüne uzak bir nazarla bakdı...
+test_00129,görülen mazgalları hin-i hacette istimal,görülen mezgaları hin hacette istimal
+test_00130,Tâhir subaşı ya‘nî çöplük subaşısı-Pîrleri Sahâbe-i kirâmdan bir,dâhir subaşı ya’nı çobâk subaşısı- Pîrleri sahâbe-i kirâmdan bir
+test_00131,Murâd Hân ziyadesiyle mahzûz ve mütelezziz olub akkâm ve meş‘alci başıya ihsan,merâd Hân-ı ziyâde sile mahzûz ve meteleniz olub ‘akâm ve müşe‘leci başıya ihsân
+test_00132,"İngiltere’nin ültimatomuna, malum olduğu vechile cevap verdik. Harp ihtimalini göze aldık.","İnkâre’nin, ultimâtımına, malum olduğu vechile cevap verdin. Harep ihtimalini göze aldık."
+test_00133,Âşığını tarif olunmaz bir gönül ateşi ve zihin teşevvüşü,aşkını taarif olunmaz bir günl ateşi ve zihin teşuşu
+test_00134,"ahenk olmalıdır ki, dans bir şeye benzesin... dedi.","âhinin olmalıdır ki, dans bir şeye bekzesin... dedi."
+test_00135,nuhûset encâmlarında müşâhede olunan tarz u tavr-ı hakîmânelerine,nahsûst-ı incâmlarında müşâhede olunan tarzûr-ı hakîmâne lerine
+test_00136,istifraş için hanımdan müsaade alıncaya kadar paşanın,istifrafış için hanımdan müsaade alıncaya kadar Paşanın
+test_00137,"gibi (Halife-i Müslimîn) denilecektir dedik. Kendisine, hilafeti tebliğ eden telgrafnamemize vereceği","gibi (hilîne-i müslemîn) denilecektir dedik. Kendisine, hilafeti tebliğ eden telgrafnemiz’e vereceği"
+test_00138,rları sırmalı saçaklarla tezyin olunmuş bir örtü katmerlenerek sarkıyordu.,rları sırmalı saçaklarla tezyin olunmuş bir ürür katmelerin sarkıyordu.
+test_00139,deyri kubbesi ve Ayasofya kubbesi ve deyri Erzâyil dahi esâsından münhedim olub,dîr kubbesi ve Ayasofya kubbesi ve derâ’il dahi esâsından münhedim olub
+test_00140,Zeyniler ise salâlarını (Hazret-i ‘Osmân Radıyallâhu ‘anh)a yetişdirirler.,Zeyni lerse sülâlarını (Hazret-i ‘Osmân-ı Rızı ‘ane'ne ilerhamân) “yetdirler.
+test_00141,- İstanbullu musun sen?,- İstanbul mısın sen?
+test_00142,-Şu anda Soli toprağını terk,-Şu andasulu tabrağını terk
+test_00143,"başka teessürlerle sarsılacağımı, hayattan bin bir lezzet duymak mümkün","başka teessürlerle sarılacağını, hayattan bin bir lezzet duymak mümkün"
+test_00144,birini intihap için...,birini intihap için...
+test_00145,müttehit buldum.,mütaht buldum.
+test_00146,"kınınız!"" derler imiş. Nûrü'l-hüdâ hazretleri câmi‘e vardıkda cemâ‘ati",kınınız!” derler imiş. Nûrü'l-hendi hazretleri câmi‘a vardıkda cümâ‘atı
+test_00147,ve ümit ile kabul ederek sordu:,ve ümit ile kabul ederek sordu:
+test_00148,mümkündür ki bendeniz hata edeyim. Yalnız müsaade ediniz de asıl hall-i umura en büyük bir istinatgâh,"mümkündere ki bendeniz hata edeyim. Yalnız müsaade ediniz de, asıl-ı hal-i umûre en büyük bir istinadıkâh"
+test_00149,Fahri Cemal yatağın yanı başındaki koltuğa oturdu.,Fahri Cemal Yatağın yanı başındaki koltuğa oturdu.
+test_00150,Kes artık ulumayı... Haydi Sabire gidelim...,kes artık olumayı... Haydi sabire gidelim...
+test_00151,oldu. Kara Mustafâ Paşa vezîr-i a‘zamı- olmağla halkın râhatını bir kat daha,yoldu. Karma Mustafâ Paşa vezîr-i âzımı olmağla halkın râhtini bir kat daha
+test_00152,"Kadın, aşina bir nazarla ona doğru eğilerek ilave etti:","Kadın, aşna bir nazarla ona doğru eğilerek ilave etti:"
+test_00153,cevap verecekti? Birkaç zamandır babasının üzerinde,cevap verecekti? Birkaç zamandır babasının üzerinde
+test_00154,vefâtı Çorlu'da vâkı‘ olduğu muhakkak ve müsbettir.,vefatı çorlu da vâkı‘ olduğu muhakkuk ve mübebettir.
+test_00155,beher sene küffâr beş yüz bin Tâkyânûs [2] altun vermegi ta’ahhüd edüb Mervân ibn,belresine küffâr yüz bin nakyânûs [2] altun vermeği ta’med edüb mervan ibn
+test_00156,geçireydi.,geçire idi.
+test_00157,eşyayı olduğu gibi göstermezse râi ye galat-ı rüyet ârız olarak,işyâyı olduğu gibi göstermezse râ’yiye Galat râyet ârız olarak
+test_00158,ise de inşaat mahallerini müdafaa için,ise de inşaat mahallerini müdafa için
+test_00159,"çık, defol!","çık, defol!"
+test_00160,"onun da ‘aynı acıyı duyması, ‘aynı vahşi acı ile kıvranması","Onun da aynı acıyı duyması, aynı ve hatta acı ile kıvranması"
+test_00161,bulunduğu için bunlara:,bulunduğu için bunlara:
+test_00162,mustatilde birer duvar daha çekilerek o,müstatilide birer diyvar daha çekilerek o
+test_00163,Bir vadi içindeyiz. Ama Kağıthane,Bir vadı içindeyiz. Ama kâğıdhâne
+test_00164,ve bâhir idi. (Geysûdâr Mehemmed Efendi) Foçalıdır. Her kişiye bir tüffâh hedâyâ verdiğinden,(Armağa‘ânı Muhammed Efendi) Focalıdır. Her keşiye bir tefâh-ı Hudâyâ verdiğinden
+test_00165,koyuna yatan biçare Rüstem ve Eftimi'nin dahi son,kına yatan içarmestim ve Eftimi'nin dahi son
+test_00166,"kemakan vazife-i milliye ve vataniyenize devam etmeniz icap eylemektedir. Binaenaleyh, bu babda vaki‘ olacak","kim kân-ı vazife-i milliye ve vataniye güz devletmeye güz icap içap etmektedir. Binaenaleyh, bu yapta vakı olacak"
+test_00167,Biraz susunuz. Dimağım bu felaketi almıyor. Çatlayacak.,biraz sösünüz. Demağım bu felaketi almayır. Çatlayacak.
+test_00168,bilse!..,bilse!...
+test_00169,"Ordularımız, İzmîr ve Burûsa’yı istirdat ettikten sonra, Trâkyâ’yı da Yunan ordusundan","Ordularımız, İzmir ve bureseyi istirdad ettikten sonra, Trâkyâ-yı Ânân ordusundan"
+test_00170,Kaymakam beyefendi meram anlamıyor! (Rossini),"ka’makam, pek efendi meram anlamıyor! (Rûsünü)"
+test_00171,"benzetildiği bu sinde, senelerin zail olmaz izdihamı altında, hissiyatın,","beyzedildiği bu sende, senelerin zail olmaz izdihamı altında, hisyah,"
+test_00172,"susturmak için her vasıtaya müracaat” ediyorlar ve “Keyfî irade, hâl-i tabiinin ve istikrarın","sustirmek için hervasıtaya müracaat” ediyorlar ve “Keyyâfı irade, hal-i tabihî’nin ve istikarârın"
+test_00173,"bu hadise hakkında İstânbul’daki mümessillerine çektikleri telgraf, facia müsebbiblerini gayr-i kabil-i tekzib","Bu hâdîh hakkında İstânbul’daki memesillerine çektikleri telgraf, faca mesiblerini gayr-i kabil tekziyip"
+test_00174,nusret ve sebeb-i zafer ve müzâheret idüğü ezher mineʼş-şems,nʻart ve seyyyîb-ı zafer ve müzâheret idüğü izhem nül-şmüs
+test_00175,Bursalıdır. Kesegendede civârında medfûndur. Her ne kadar tenperver sâhib-i,bir veselîdir. Kesîn-i Dede civârında medfûndur. Her ne kadar ten pürûr ve sâhib
+test_00176,Ammâ derûn-ı kal‘adaki bölme hisârlarında kapuları bunlardır: Küçük karaköy,Ammâ derûn kal‘adaki bulma hasarlarında kapular bunlardır: Küçük küregünü
+test_00177,Fâtma güzeldi.,Fâtma güzeldi.
+test_00178,bulunmayacak mısın? Ben senin için her tehlikeyi,bulunmaya cakmasın? Ben sinn için her tehlikeyi
+test_00179,"geçirerek o gün şehrin muhtelif köşelerini, bilhassa müzeyi gezdiler.","geçirerek o gün şehrin muhtelif köşelerini, bilhassa muvzeni gezdiler."
+test_00180,"olunamaz. Bugün ciddi, mühim bir meselenin vahameti","olunamaz. Bugün ciddi, mühim bir meselenin ve hameti"
+test_00181,huzurunda kendi mevcudiyetini kızgın sac üzerine düşen,huzurunda kendi mevcudiyetini fızgın saç üzerine düşen
+test_00182,gelmeden görücüler kapımızı aşındırmaya başladılar. Hangisine,gelmeden görücülür kapımızı aşındırmaya başladılar. Hangisine
+test_00183,bir rahat ve saadet menbaı olabilecek mi? Bu merhale onun bünye-i içtimaiyesini kırıp dökmeden,bir rahat ve saadet-i münî olabilacak mı? Bu merhala onun yüniyye-i içtima’yesini kırıp dökmeden
+test_00184,esnâf-ı ʻaskerde süvâr ve piyâdeden her bir bölük veya bir orta,Esnâf-ı ‘askerde sûr u piyâde den her büyülük veyâ bir orta
+test_00185,cevap verdi.,cevap verdi.
+test_00186,(el-Mevlâ Niksârîzâde Mustafâ Efendi) ‘Âşıkpaşa câmi‘ hareminde medfûndur.,(el-Mevlâ neksârîzâde Mustafâ Efendi) ‘Âşık Paşa Câmi‘i hareminde medfûndur.
+test_00187,olamam. Ben Nerîmân’a yumrukla mı vurdum...,olamam. Ben Nerîmâne yumrukla mı vardım...
+test_00188,önünden geçer iken orta yerine bir parça cam,öğünden geçer iken ortaya bir parça cam
+test_00189,tarafından sekiz mermer sütûn üzre bir kubbe-i mevzûn ‘ilâve edilmişdir. Havzın,tarafından sekiz mermer-i sütûn üzre bir kubbe-i mevzûn-ı ‘ulâve edilmişdir. Huzun
+test_00190,"Rûmeli'nde (Selânik)e, ‘Arabistân'da (Sıfet) şehrine benzedir ki Yahûdî",Rumâylinde (Selânik) 5 ‘Aribistân'da (Sığd) şehrine beğzedir ki Yahûdî
+test_00191,hemen evvela Büyükada’da itinayla gizlediği Perran macerasını anlatarak,Hemân evvela büyük adade ittinale gizlediği Perran macrasını anlatarak
+test_00192,avukat bulunmuyormuş... Şimdi oraya gidip bir kere kurnaz tedbirlerle,avvakat bulunuyormuş... Şimdi oraya gidip bir kere kurünazettirlerle
+test_00193,her hakikati mektûm tutulmak istirhamıyla efendimize arz ediyorum. Bundan sonra hatt-ı,her hakikati mektum tutulmak istirhamıyla efendimize arz ediyorum. Bundan sonra hatt-ı
+test_00194,Eftimi kemal-i ihtirazla etrafına,Eftimi kemal-i ihtiraz ile etrafına
+test_00195,karşı boyaların iddia-yı şebabetine manav ağanın kendinden başka,karşı bu yaların iddia-yı şebabetine manav ağanın kendinden başka
+test_00196,dadır. Bu dellâklar cümle ‘uryân olup ibrîşim peştemâlli dilberânları kâküllerin,dedir. Bu delâkler cümle ‘ayân olub erişim piştimali dilberânı kâkillerini
+test_00197,vücudun böyle geçici ağrılarından ibaret olsaydı...,Vücudun böyle geçi ağrılarından ibaret olsaydı...
+test_00198,Önüne yığılan insan kesafeti biraz açılarak araba,önüne yığılan insan kesafeti biraz açılarak araba
+test_00199,- Ben yatıyorum... dedi.,-Ben yatıyorum... dedi.
+test_00200,birbirine zincir ile merbut uzun tespih gibi aheste,birbirine zincir ile merbut uzun tespih gibi ahsine
+test_00201,"ne bir vehim seni benden ayıramaz... Mesudum Periciğim, mesudum...","ne bir ve hem seni benden ayramaz... Mevdüm periçekim, mesutum..."
+test_00202,"Hassan était done nu, - mais nu comme","“İsaitevvü’s) 1887, 5:336 - 231, 133, 133"
+test_00203,muhatabının yüzüne dikti. Şuayip’in işi bitti. Ta kalbine,muhabinin yüzüne dikti. Şuayipin işi bitti. Takalına
+test_00204,ve üitanız için gelip geçeceksiniz.,ve itanız için gelip geçeceksiniz.
+test_00205,-Ya ben? dedi; ya ben?... Beni burada mı bırakıyorsunuz?...,- Ya ben? dedi; yan?... Beni burada mı bırakıyorsunuz?...
+test_00206,bir mik'abın dört köşesi tayyedilmek su-,bir mekabın dört köşesi tayedilmek su-
+test_00207,Rüstem Soli dağlarında arttırmış olduğu,Rüstem Soli tağlarında irtirmiş olduğu
+test_00208,"Kâğıdcılara, (Südlüce hamâmı) Çobanlara, (Hâsköy hamâmı) Kiremitcilere,","Kâğıclara, (Sûdlîce hamâmı) Çobanlara, (Hâsgû-yı hamâmı) kîremidicilere"
+test_00209,Buna Neriman Hanım cevap verdi:,Buna Nerîmân Hanım cevap verdi:
+test_00210,eylerler. Bu haremin dört kapusu ve garb tarafındaki kapusunun yemîn ü yesârında,ilerler. Bu haremin dört kapusu ve Garb tarafındaki kapusu'nun yemin ve yesârında
+test_00211,"yalan vaatlerle aldatıp, kalkıp ortadan kaybolmak bana çirkin","Yalan vaatlarla altıp, kalkıp oradan kayıp olmak bana çirkin"
+test_00212,erbâb kâr-ı cevâhirlerini kâğıd üzerine sererek ubûr ederler.,Erbâr-ı kâr-ı cevâhirlerini kâğıd üzerine sirerek ubûr ederler.
+test_00213,olunurdu.,olundu.
+test_00214,"ne olursa olsun, kendisi nerede bulunursa bulunsun hiçbir şeyin","ne olursa olsun, kendisi nerede bulunursa bulunsun hiçbir şeyin"
+test_00215,serbest söylerim. Bu meziyeti karşımdakinde de ararım..,serpest söylereim. Bu meziyeti karşımda kendede ararım..
+test_00216,"Fahri Cemal mücessem merak ve alev halinde o kadar ki, titreyerek Perran’ın","Fahri Cemal, mücesim merak ve ulu hâlinde o kadar ki, titreyerek Perran’ın"
+test_00217,"ben, Hasnâ Hanım’a dedim ya! Dünya güzeli bile olsa",Ben Hasna Hanıma dedim ya! Dünya güzeli bile olsa
+test_00218,konağında arz etti ise de asakir-i nizamiyenin de kuvvetü’l-zuhûr olmasını ve fakat,Konağında ‘arz ettiyese de asker nizamiyenin de kuvvetalızlar olmasını ve fakat
+test_00219,bulunamazdı. Hasta mı? Bunu da söylemeye cesareti yoktu. Bahusus ki,bulunamazdı. Hastemi? Bunu da söylemeye cesareti yoktu. Bâhusüna
+test_00220,amansız bir dakikada yakalamak için tebaiyete mecbur olduğu,amansız bir dakikada yaklamak için tebaiyete mecbur olduğu
+test_00221,"baktı. Annesi de ona bakıyordu. Fakat gözleri, renksiz, bakışsız,","bakdı. Anınası da ona bakıyordu. Fakat gözleri, renksiz, bakışsız,"
+test_00222,"kilitli dolabın içinde kristallerin arkasında, kırmızı kapitone atlasın","gelîdli dolayın içinde karıstâllerin arkasında, kırmızı kapıtuna atlasın"
+test_00223,"Memleketi, milleti ne için terk ediyor. Liderlerimiz bizi tenvir etmemiştir. Muhterem Reisimiz (beni","memleketi, milleti ne için terk ediyor. Lederlerimiz bizi tenvir etmemiştir. Muhterem Reisimiz (Benî"
+test_00224,"karıya söyleyerek acele giyindi, sokağa fırladı. Otomobil orada","Karıya söyleyerek acele geyendi, sokağa fırladı. Otomobil orada"
+test_00225,verildiği anlaşılmıştır.,verildiği anlaşıldı.
+test_00226,"o yanındaki beyin gelmesini emrederek, Keramet odaya girdiği zaman","oyanındaki beğin kelimesini emrederek, giramet odaya girdiği zaman"
+test_00227,aylık idiyse de böyle binlerce nüfus için,aylık ediyse de böyle biklerce nefos için
+test_00228,levha-i vicdanına nakş edecek derecede haiz-i te’sir olan,Ohahis vicdânına nakş edecek derecede haiz tesir olan
+test_00229,ve temayülünü açık söyletmek maksadıyla şu cümleyi de ilave ettik: “Beyanât-ı vakıalarından anladığımıza,ve temelini açık söyletmek maksadıyla şu cümleyi de ilave ettik: “beyanât ve ak’adırından anladığımıza
+test_00230,Baba oğul arasında ağır ve en şiddetli sözlerden,Baba ağıl arasında ağır ve en şiddetli sözlerin
+test_00231,üstünde sızdı. Ben de merak ettim. Gazeteyi aldım.,ostunda sızdı. Ben de merak ettim. Gazeteyi aldım.
+test_00232,"Bu vesâik hakkında sırası gelince, daha ziyade maalumât veririm. Şimdilik bu kadarı kâfidir.","Bu vesak hakkında sırması gelince, daha ziyade malumât veririm. Şimdilik bu kadarı kâfîdir."
+test_00233,varmış. Evlatlık namı verilmekle de tehlikenin önü,varmış. Oladık namı verilmekle de tehlikenin öki
+test_00234,"bencileyin âsî ve âciz, mezmûm, mukallid kulunun ricâsıyla sizleri afv eyledi.","benceleyin âsı ve âciz, mezumum, makallid bir kolunun rüclisiyle sizleri affevâyıldı."
+test_00235,Mâ tekaddemde daha ziyâde idi. Fakat sikke kalb olmasun diyerek bir çok darbhâneleri,mâtekaddim de dahazyâda idi. Fakat sikâkalb olsun diyerek birçok darbhâneleri
+test_00236,tavsiye kifayet eylediği gibi işte bu kabilden olarak iki kerre,tavsiye kifayet eylediği gibi işte bu kıldan olarak iki kerre
+test_00237,Veli Paşa keyfiyeti pederine arz ederek,Veli Paşa keyfiyeti bederine arz ederek
+test_00238,ve bunları ne hülyalarla süsleyerek hayatının en yüksek saadetleri,ve bunları ne havliyalarla sösleyerek hayatının en yüksek saadetleri
+test_00239,-Avdeti ben de düşünüyorum!,"- Uveti, nen de düşünüyorum!"
+test_00240,"Artık Perran’ın hayatı hep böyle ani kararların, nâgehanî düşüncelerin","Artık Perran’ın hayatı hep böyle anı kararların, nâkhanı düşüncelerin"
+test_00241,versin mi?,ver süsumi?
+test_00242,Rıdvan Sabihi eskisi gibi göremiyordu. Pek nadiren,Ruzun sabihi Eskisi gibi göremiyordu. Pek nadiren
+test_00243,Bozacılara pîr olmak nerden. Bu söz ancak Efsâne-i bozacıyândır.,bozacılara yîr olmak nerden. Bu söz ancak efsâne-i bozaciyân'dır.
+test_00244,Rüstem Beyin verdiği kararlar icra oluna-,Rüstem Beyin verdiği kararlar icra oluna-
+test_00245,salisen yine geçitlerdeki Arnavutlardan kurtulup,ve salin ine geçitlerdi arnavutlardan kurtulup
+test_00246,"olmak imkânı ve ihtimali bulunmadığını, arkadaşlar arasında, su-i tefehhümâtı mucip sözler sarfının","olmak imkânı ve ihtimali bulunmadığını, arkadaşlar arasında, sevfihmânı mucip sözler sarafının"
+test_00247,Kullelerin kimi çârkûşe ve kimi müdevver ve kimisi Şişhâne-i mevzûndur.,kalaların kimi çârkûşe ve kimi medûr ve kimi‘si şeşhâne-i mevzûndur.
+test_00248,Çûn meremmet şüd û be-vakt-i şerîf şüd müverreh: ‘’‘imâret-i kal‘a’’,Çün mermet-i şeddâ ve bu kat şerîf
+test_00249,bulunurlar. Nihayet büyükvalide:,bulunurlar. Nihayet büyük valide:
+test_00250,tarif etmek icap ederse en muvafık bir tabirle “yavan” diyecekti.,tarif etmek icap ederse en muvafık bir tabirle “yavan” diyecekti.
+test_00251,vakit ve gizli ziyaretimin sebebini deminden pek güzel keşf,Vakit ve gizli ziyaretmek sebebini deminden pek güzel keşf
+test_00252,ettiğimiz Sivas’ta da bir telâş ve heyecan başladı.,"ettiğimiz, Sivas’da da, bir telâş ve heyecan başladı."
+test_00253,"Kız, sözünü bitirmiş, cevaba muntazır duruyordu.","Kız, sözünü bitirmiş, cevaba müntazır duruyordu."
+test_00254,"Günden güne kuvvetten düşüyorum. Seninle barıştıktan,","günden güne kuvvetten düşüyorum. Senkle barştıktan,"
+test_00255,beş para etmez bir adama hayatını bağlayıp bu esaret zilleti içinde İstanbul’un,Beş para etmez bir adamiyatını bağlayıp bu isaret zatın içinde İstanbul’in
+test_00256,Deraliyye,Dereliye
+test_00257,"imale etmedikçe, fikrimizin hayyiz-i fiile gelmesi mümkün değildi. İstanbul’da içtimanın, mehazirini, tabi","imalle etmedikçe, fikrimizin hiz fi’le gelmesi mümkün değildi. İstanbul’da içtimal’in muhazîrini, tabi"
+test_00258,"Ova-, Şıklofça, Peçuy,- Kapoşvar, Koya, Nadaj, Bobofca,- Berezençe,","Evvâ, şakloca, büçevi, kopuşvâr, kuyâ, nedâiz, bu bu bofça, bir abizinçe,"
+test_00259,nezâret içün ifrâz-ı ceyş tarîkleri ve teshîr-i bilâd kānûnları,nizâret içün eferâzcış tarîkleri ve teshîr-i bilâd tânûnları
+test_00260,ve tevabinin yegâne nigehbânıdır. Sa‘id Molla’nın Mister (Frev)ya yazmış olduğu mektuplar münderecâtından,ve tevâbının yegâne mekhânîdir. Sa‘îd-i müsellânın müyestir “fervi” yazmış olduğu mekteviler münderer câtından
+test_00261,"etmeyenler bulunsa bile, “ilm’ül-lisane” diye tercüme edebileceğimiz","etmeyinler bulunmasa bile, “Alimü’l-asına” diye tercüm edebileceğimiz"
+test_00262,takip ettikçe geçkin sevdazede kabına sığamaz bir hâle,takip ettikçe geçkin südaz da kabına sığamaz bir hâle
+test_00263,Hasna Hanımın yine merakı tutmuş haberi mahalleye yayıldı mı,Hasna Hanım’ın yine merakı tutmuş haberi mahalleye yayıldımı
+test_00264,sadakattan inhirafına ihtimal veriyor musunuz?,sadakatten intihrafına ihtimal veriyor musunuz?
+test_00265,çalışacağız. Benim reyim böyledir. Başkalarının,çalışacağız. Benim reyim böyledir. Başkalarının
+test_00266,"Bu suallerle, Ra’u2f Bey’in, millet ve ordunun nazar-ı dikkatini celp etmek istediği anlaşılıyordu.","bu suallerle, Ra’ûf Bey’in, millet ve ordunun nazarı dikkatini celp etmek istediği anlaşılıyordu."
+test_00267,"Matbuât, bu gibi kuyudât-ı örfiyeden azade olup hür ve serbesttir. Akbaş cephanesinin","matbuât, bu gibi kuyudât-ı arafiyeden azade olup her ve serbesttir. Ak beş cephanesinin"
+test_00268,Moğol esirini satmaz. İhtiyar şeyhi bir müddet ona buna,mağul esirini sâtmaz. İhtiyar şeyhi bir müddet ona buna
+test_00269,"[2] Su kemerleri, yani bostağan kemerleri miladın (117-137) senelerinde","[2] Sonmerleri, yani bu sütügân kirleri meyladın (321-321) senelerinde"
+test_00270,vapurda ağlanır mı hiç? (Tal’at Hanım’a tevcihen),Ve öpurda ağlanır mı hiç? (Tal’at Hanımacıyen)
+test_00271,"dedi. Efendi gönlünde kaynaya, kaynaya tebahhuratı","dedi. Efendi gönlünde kaynaya, kayınaya tebrattı"
+test_00272,lakırtı kahtına uğrar. Nihayet:,lakırtı kahatına uğrar. Nihayet:
+test_00273,âteşfeşân olub cümle zevrakları ihrâkü’l-nâr edermiş.,ateş-i füşân olub cümle zûr-kları ihrâk bilinâr edermiş.
+test_00274,dahi verdiği cevabı öyle bir çatık çehre,dahi verdiği cevabı öyle bir çatık çehre
+test_00275,"itirazâtına karşı, artık Tal’at bir söz bulup","itiragatına karşı, artık Tal’at bir söz bulup"
+test_00276,"Perran, hâlâ o tereddüt seyyiesi ve kararsız bir baş sallantısıyla:","Perran, bila ötrendi siyesi ve kararsız bir baş sallanatisiyle:"
+test_00277,"o adamı... O, her kim ve her neyse... Onu tasavvur ediyor, ve bunun mutlak","O adımı... O, her kim ve her ne ise... Onu tasavvur ediyor, ve bunun mutlak"
+test_00278,için bir müddet matemli bir çehre ile sustular. Nihayet,için bir müddet matemli birer çehre ile sösdüler. Nihayet
+test_00279,"şunu ‘arz ederim, ki zat-ı â‘liniz henüz Ferîd Paşa Kâbinesi’ne itimat beslemiyorsanız bunu,","şunu arz ederim, ki zat-ı âliniz henüz Ferîd Paşa Kabinesine itimat beslemiyorsanız bunu,"
+test_00280,Ve bu ümit içinde geçmiş bir haftadan sonra bir gün Galatasaray’da,ve bu ümit içinde geçmiş bir hafteden sonra bir gün Galata sarada
+test_00281,Her tarafta tezahürât yapılması için yaptığım tebligât tarihinden üç gün sonra yani,Hire tarafda tezahürât yapılması için yaptığım tebligât-ı tarihinden üç gün sonra yani
+test_00282,iktizâsına göre eğerçi muhâlefet ve mübâyenet üzere vâkiʻ olmuşdur,aknizâsına gûh-i kereçe mühâlefet ve mübâyet üzere vâkʻ olmuştur
+test_00283,ettirmek vadilerine sapışları da görülmemiş birşey değildir.,ettirimek ve edilerine sapışları da görülmemiş bir şey-i değildir.
+test_00284,"Anatolu Hisârı'nda, Üsküdar'da, Kızkullesi'nde dahi yine ‘ışâ ve seher vakitlerinde","Anâtolu husârında, Üsküdar da, kızkılasında, dahi yine aşa ve sahrûketlerinde"
+test_00285,çehresinde dehşetli bir tezat hâsıl eylediği ve cereyan-ı,çehresinde dehşetli rütizat hasıl eylediği ve cereyan
+test_00286,idaresinde eslem bir tarik olduğu gibi hukuk-ı esasiye nokta-i nazarından da en makbul bir şekli ihtiva,idaresinde İslim birtrik olduğu gibi huk-ı Esasiye nokta-i nazarından da en mukbul bir şekli ihtiva
+test_00287,"- Fikret, diye hitap etti; Fahri Cemal Beyefendi,","- Fikret, diye hitap etti; Fahri Cemal Beyefendi,"
+test_00288,Kendi kendine:,kendinindine:
+test_00289,"Kendisine ağır ihtarda bulundum. Meclis’in, mahalle kahvesi olmadığını söyledim. Milletin Kabe’si","kendisine ağır ihtar’da bulundum. Meclis’in, mahalle kahvesi olmadığını söyledim. Mühten küpbesi"
+test_00290,gibi değil idi. Belki zaten hazır bulunan,gibi değil idi. Belki daima hazır bulunan
+test_00291,tuşlarına mülaki olan bu tahta deliklerinin üzerinden geçiyor ve tahta ile,tüşlerine mülakı olan bu tahatta deliklerinin üzerinden geçiyor ve tahtih ile
+test_00292,suretinde yaşamışlardır.,suretinde yaşamışlardır.
+test_00293,"Sizi hangi kudretli san’atkar böyle günahın, cehennemin, ‘isyanın,","Sizi hangi kudretli sanatkâr böyle günahın, cihnımın, asyanın,"
+test_00294,"Diğer târîh yine cinânî güftesi: ""Gitdi Na‘leynî Dede hayf meded ‘ukbâya""","Diğer târîh yine cinânî kiftesi: ""Kitti ta‘lînî Dede hayf-i müdd-i ‘akbâya”"
+test_00295,keşik beklerler. Bu esnâf subaşıya tâbi‘ olduğundan ordu ve alayında devr-i,köşün beklerler. Bu esnâf subaşıya tab’ olduğundan ordu ve alayında dur
+test_00296,ayıptan kurtarmak için düşmanlarıyla mukateleye,aybeden kurtar mak için düşmanlarıyla mukateleye
+test_00297,hayât ederler. Ba‘zılar:,hayat ederler. Bazılar:
+test_00298,dibinde neler konuşmuş olduklarını biz bundan,dibinde neler konuşmuş olduklarını biz bundan
+test_00299,Validemin pek sıkı bir kontrolü altında yaşıyorum.,- Valademek pek sabkı bir kontrolu altında yeşuyorum.
+test_00300,Aşk ve sevdaya fıkır fıkır dayanıklı olmalı... Artık benim,aşk ve sevdaya fıkır fıkır dayanıklı olmalı... Artık benim
+test_00301,tasdike salahiyettârdır. Icrâ Vekîlleri Heyeti içlerinden birini kendilerine Re’s intihap ederler.,tasdikka salahiyetdardır. İcra vekilleri Heyeti içlerinden birini kendilerine reis-i intihap ederler.
+test_00302,"ehemmiyeti mi vardı ki bu meseleler düşünülsün?... O zavallı acziyle,","ehemmiyetimi vardı ki bu meseleler düşünlülsün?... O zavallı aciziyle,"
+test_00303,"Ferîd Paşa Kabinesi vardı. Buna nazaran, Kuvâ-yı Milliye ile Yunân kıtaatı arasına Osmânlı kıtaatı","Ferîd Paşa Kâbinesi vardı. Buna nazaran, Kuvâ-yı Milliye ile Yunan kıtaatı arasına Osmanlı kıtaatı"
+test_00304,"görmüş! Gerçi hem cephe ile hem de geride birçok işlerle iştigal etmek güçtür. Bir adem,","görmüş! Eğerçe, hem Cephe ile hem de giride birçok işlerle iştigal etmek küçtür. Bir adam"
+test_00305,Rauf Bey,Rauf Bey Bey
+test_00306,"yaptırmak için yaya olarak Beyoğlu’na çıkar,","yaptırmak için yap olarak bey oğluna çıkar,"
+test_00307,Uşak beş kuruş uzatarak:,Oşak beş guruş uzatarak:
+test_00308,"şu tehdit vardı: “Şimdiki hâl, bir müddetçik daha devam edecek olursa Hey’et-i Vükelâ’nın","şu tehdit vardı: “Şimdiği hâl, bir müddetçin daha devam edecek olursa heyet-i Vüklan’ın"
+test_00309,- Kuyucunun Nuri?,- Koyocu’nun nuruy?
+test_00310,fütûh edüb her bâr İslâmbolun cevânib-i erba’asını gâret eden kâfirleri nâlân,fütûh edüb her bâr İstanbul'un cevânib-i erba‘asını gâret eden kâfirleri nâlân
+test_00311,"Ra’ûf Bey, “Türkiye Büyük Millet Meclisi” Hükümeti şeklinde musır idi.. İsmin tebeddülüyle,","Ra’ûf Bey “Türkiye Büyük Millet Meclisi” Hükûmeti şeklinde musar idi.. İsmek tebdüyle,"
+test_00312,istimaya tahammül göstermeni rica ederim.,istimaya tahammül göstermeyi rica ederim. Çünkü
+test_00313,Kassâblarıdır. Her birinin tomruğu gediktir. Mahlûl olsa tomruğu yeniçeri,Kassâblarıdır. Her birinin duruğu kedikdir. Mahlûl olsa durumuğu veği çeri
+test_00314,"İnsan sesine, çocuk sesine benzemeyen bir ses, bir ıztırab","İnsan sesne, cevcak sesine bekizemeyen bir ses, bir ıstırâb"
+test_00315,Erzurum Kongresi’nin mukarrerâtına idhalen neşri muvâfık olacağını zannediyorum.,Erzurum Kongresi’nin mukarrerâtına iddilen neşrik oluk olacağını zann ediyorum.
+test_00316,mütemadiyen söyleniyordu:,Mutimadiyen söyleniyordu:
+test_00317,yâr'dan getirdik leri çamurlarla maşraba ve kûze ve sürâhî î‘mâl ederler ki misli,yardan getirdikleri çamurlarla müşerbe ve göze ve sırahı i‘mâl ederler ki müselli
+test_00318,ve Kürt ve Asurî-Keldanî menafiinin kâfi derecede himayesi için tarafımızdan teshilât,ve görd ve aturî- Gülideni menafının kâfi derecede hammiyesi için tarafımızdan teshilât
+test_00319,"O da, gideni arattırmayacak surette halkın ekseriyet-i kahiresinin arzularına muvafık,","O da gideni arttırmayacak surette halkın ekseriyet kahresinin arzularına muvafık,"
+test_00320,"öğrenirdi, fakat...","o grenirdi, fakat..."
+test_00321,ta‘bîr etdikleri yedi bâbet hil‘at-ı pâdişâhîleri dokuyarak hil‘atları zeyn,ta‘bîr etdikleri yedi bâket-i hâdet-i pâdişâhîleri dokûyarak hıta’atlarını zîn
+test_00322,- Sonra anlarsınız...,- Sonra anlarsınız.
+test_00323,duhuldeki maksadını keskin bir bakıcı kiyasetiyle doğru,dahuldaki maksadını keskin bir bakıcı kıyastıyla doğru
+test_00324,taraftan bilekle pantolonu arasından mintanının eteği dışarıda,tarafından belkiyle yantalonu arasından meynetanının ateki dışarıda
+test_00325,cümlesini istimlâk ile hidm edüb tarîk-i ‘âmmlar ile kal’a dâirenmâdâr râyegân,cümlesi istimalâk ile hüdüm edüb tarîk âlemler ile kal’a dairâmâdâr-ı râyegân
+test_00326,- Sonra neler tarif etmiş diye bu kitabı çok,- Sonra neler tarif etmiş diye bu kitabı çok
+test_00327,ta‘accübâne birer parmaklarını ısırub hayrân oldular. Kapuların Hind sadefkârîsi,mu‘teccbâne birer parmaklarını ısırıp hayrân oldular. Kapuların Hind-i sedfkârîsi
+test_00328,"1, sarrâcbaşı kârhâne-i kebîri 1, câmcıbaşı kârhânesi 1, mi‘mârbaşı","1, Sarâc başı kârhâne-i Kibîri 1 Câmi‘i başı kârhânesi 1, Mu‘mârbaşı"
+test_00329,az müddette çok ilerleyerek öksürük ziyadeleşiyor,az müddette çok ilerüliyerek öksürük ziyadeleşiyor
+test_00330,bir manâ-yı samimiyet geldi. Sanki artık her bakışıyla,bir mümanay-ı samimiyet geldi. Sanki irtık her bakışıyla
+test_00331,- Eyvah berbat olmuşum...,-Eyvaba berbat olmuşum...
+test_00332,bir mektubu tercümesi şundan ibaret olmak,bir mektubu terçmesi şünden ibaret olmak
+test_00333,"yapılacak bir şey kalmamıştır. Badema da, Dâhilîye Nezâreti’nin bu gibi icraâtı yüzünden tahassul",yapılacak bir şey kalmamıştır. Ba‘de de dahilîye nazareti’nin bu gibi icraâtı yüzünden tahassül
+test_00334,endazları dahi dümdarlık hareketiyle çekilmiş,andazlar dahi demdarlık hareketiyle çekilmiş
+test_00335,"Bu malumâttan sonra, Nureddîn Paşa’nın Üçüncü Ordu Kumandanı bulunan pederi Müşir İbrâhîm","Bu malumâtından sonra, Nureddîn Paşa’nın üçüncü Ordu Kumandanı bulunan pederi müşeyrâhîm"
+test_00336,gelenlerin muhasıra ettikleri şehrin ismini bilmemeleri mümkün olmayacağına nazaran o rivayetin,gelenlerin mühassara etdikleri şehrin esmini bilmemeleri mümkün olmayacağa nazaran oruyetin
+test_00337,sonra Re’fet Bey müsveddeyi eline alarak kendine mahsus bir işaret vaz‘ etti. Öyle bir,"sonra, re’fet Bey-i müsudeyi eline alarak kendine mahsus bir işarı vaz etti. Öyle bir"
+test_00338,"Paşa ve yarânından birini mevki-i iktidara getirmeleri de muhtemeldir. Meclis’i, bi’t-tabi feshedeceklerdir.","Paşa ve yaranından birini muvaffakitara getirmelerde muhtelir. Meclisi, bilabi fesh edeceklerdir."
+test_00339,dediğine itiraz etti. Bu sözü geriye almasını istedi. Receb Bey - “Geriye almıyorum,dediğine itiraz etti. Bu sözü geriye almasını etsitti. Receb Bey - Küzîye almıyorum
+test_00340,"anası: ona: “Kızım, evlenmek lazımdır,” diyerek bir koca getirdi...",Anası: Ona: “Kızım evlenin lazımdır.” diyerek bir koca getirdi...
+test_00341,diyerek odasından bastonunu alıp ayaklarının ucuna,Diyerek odasından bastununu alıp ayaklarının ocuna
+test_00342,varıncaya kadar her hallerini her meziyetlerini de,varıncaya kadar her hâllerini her meziyetlerini de
+test_00343,- İstemem .. İstemem demektir.,- İstem.. istem demektir...
+test_00344,"o gece ayrılıklarından, o her saat uzak kalmaklardan kurtulacaklardı.","O gece ayrılıklarından, o her saat uzak kalmaklardan kurtulacaklardı."
+test_00345,kimi direklerini biri birine bağlayıb deryaya dikmişler. Tâ zirve-i a‘lâsında bir âdem,gümü derklerini biri bir yine bağlayub deriye dikmişler. Tâzürû’e-i a‘lâsında bir âdem
+test_00346,mütehassis olmuyordu. O ses kalbindeki o eski fırtınayı canlandıra,mütehass olmayordu. O sı kalbindeki o eski Furtanayı canlandıra
+test_00347,let ederler. Fasulyeler beyaz olur ise,let ederler. Fasulavalar beyaz olur ise
+test_00348,ta tazime tekrime hediyeye boğarak Napolyon'a,te ta tazimye teğremeye hediyeye boğarak Napoluyona
+test_00349,gılâfından şecer-i rümmânendi niçe niçe merdân-ı şecâʻat-nihâd,gālâfenden züccür-i mânındı. Büçe nehessirdân-ı süccâʻat nihâd
+test_00350,bir kısmet gönderir...,bir kısmet göndere yer...
+test_00351,"gösterir üç ayaklı bir hayvân resmi vârmış, sonraları kırılmış. Dünyâda mevcûd","gösterir üç ayaklı bir hayvan resmî varmış, sonraları kırılmış. Onyâda mevcûd"
+test_00352,sesini çıkarmayıp muahharen kızın bir te'vil-i,se seni çıkarmıp müfharan kızın bir teviyül
+test_00353,Bâlâdâ zikr olunan on bir esnâfın cümlesi pürsilâh olub,Bâlâda zikr olunan on bir esnâfın cümlesi’de pür-silâh ‘asker olub
+test_00354,bundan ibaretse Nerîmân’ın bu ısrarındaki beyhu-,Bundan ibaretsa Nerîmân’ın bu ısrarındaki büyü-
+test_00355,Ahmed el-Buhârî) şeyh İlâhî hazretleri ile (Simâv) şehrinden Rûm'a gelüb şeyh,Ahmedühârî) şeyhü Hazı hazretleriyle (Suma‘a) şehrinden Rûme gelüb şeyh
+test_00356,Cibrîl-i Emîn ile tâc ve hulle gönderüb civârına da‘vet etdi. Âdem huzur-ı,Cebri’l-i emîn ile tâc u hale gönderüb civârına davet etti. Âdem huzûr
+test_00357,değil bir Solyottan bile tevlit etmiş olsa,değil bir Solyot'tan bile tevliyd etmiş olsa
+test_00358,Murahhasa’mız da geldi. Ben de Garbî Anadolu’da icrâ etmekte olduğum seyahatten avdet ediyordum.,merahhasamızda geldi. Ben de garpi Anadolu’da icra etmekte olduğum seyahatten avdet ediyordum.
+test_00359,şeyi unuttular. Saadet-i aile avdet etti.,şeyi unutular. Saadet-i â’le avdet etti.
+test_00360,bulduğumuz Bekir Sâmî Bey’le beş kişi olduk ve Sivas Kongresi’ni vücuda getiren murahhasların,bulmadığımız beğer Sâmî Bey’le beşi küldük ve Sivas Kongresini vücuda getirin murahhasların
+test_00361,- Beşiktaş tarafında oturuyorlar... dedi.,- Beşiktaş tarafında oturuyorlar... dedi.
+test_00362,sûret-i katiyyede burada olduğunu neden biliyorsunuz?,suret-i katiyede burada olduğunu neden biliyorsunuz?
+test_00363,hitap ederek:,hatap ederek:
+test_00364,başlayan müzakerât-ı sulhiye 2 Kânunuevvel’de hitam buldu ve 2/3 Kânunuevvel gecesi (Gümrü),başlayan müzakerat-i silahiye 2 Kânun evvel de hitam buldu ve 2 Kânunuevvel gecesi (Kemri)
+test_00365,"idare ve siyasetinin yarattığı bu nevî zihniyetler merdut görülmelidir. Ordu ile, muharebe ile, inat","idare ve siyasetin yarattığı bunu zihniyetler mertûd görülmelidir. Ordu ile muharepe ile, inat"
+test_00366,İslâmbol kral-ı cemî’i patrîk ve kıssîs ruhbânlarını bir yere cem’ edüb eydür:,İslâmbol kralı cemî‘-i patrîk ve kısîs ve Rabbânî bir yere cem‘ edüb dedi:
+test_00367,sinirime dokunuyor...,sinnirime dokanıyor...
+test_00368,"Fahri Cemal, eldivenini iliklemekle meşgul, gülerek:","Fahri Cemal, eldivenini ilikliğle meşgul, gülerek:"
+test_00369,delikten ibaret kalan bu ihtiyarı rahmet-i Rahman’ına niye gark,delikten ibaret kalan bu ihtiyarı rahmet rahmanına ne fırk
+test_00370,"ve anlatmak istedim, ki hakikaten Kolordu Kumandanı’na verdiği emir gayr-i kabil-i icradır. Kumandanlar,","ve anlanmak istedim, ki hakikaten Kol Ordu Kumandanı’na verdiği emir kabıral icradır. Kumandanlar,"
+test_00371,"cevap verilirken, bir cihet asla kale alınmıyor. O da, Efendiler; Mister (George Milne)’in","cevap verilerken, bir cihet-i asla kalınmıyor. O da, Efendiler; müyster (Cevrç Miyân) en"
+test_00372,şebye olan savt-ı hazînini peder ve mâderî anlamadan (anlamaktan) kaldılar.,şübe olan suvet-i hazînî peder ve mâderî anlamdan (anlamaktan) kaldılar.
+test_00373,Mücadele arttı. Debeleşe debeleşe nihayet kız altında,mücadele arttı. De belişe de belişe nihayet kız altta
+test_00374,misâl tîn-i mülâyimdir ândan gûnâgûn kûzeler îcâd ederler. Gûyâ cezîre-i İlimni-de,müsell-i tîn mülâyendir andan gûnâgûn güzeler îcâd ederler. Gûyâ cîzîret-i elmiyede
+test_00375,senesinde Roma İmparatorluğu memâlik-i Avrupadan Avusturya,sene seneder ve maʻyımparatorluğu memâlik urupadan oşeriya
+test_00376,küçük hemşiremle biraz hava alayım diye sokağa çıkmıştık...,Küçük hemşiremeyle biraz hava alayım diye sokağa çıkmıştık...
+test_00377,"yeni kanaat ve kararlar almak mevzubahis değildir. Sen; bugüne kadar milletin tebellür etmiş, tahakkuk","yeni kat ve kararlar almak mevzu-i bahis değildir. Sen; bugüne kadar milletin tebler etmiş, tahakkati"
+test_00378,Nerîmân bir müddet daha sayıklaya uyuklaya masalda,Nerîmân bir müddet daha sıklaya uyuklaya masalde
+test_00379,yüzüne serpmek için biraz su aradılar,yüzüne serpek için biraz su aradılar
+test_00380,"geçirir, istirahat ederek... Ve istersek mesut avdet ederdik.","geçir, istirahat ederdük... Ve istersen mesut avdet ederek."
+test_00381,"için farzedelim ki, dedim, Türkiye, mevzu-i bahis vazifeyi kabul etsin... Bütün âlem-i","için ferz edelim ki dedim; Türkiye, mevzu-i bahis vazifeyi kabul etseyn. Bütün âlem-i"
+test_00382,nehri kenârında kulağızlarım olan Kazaklarla (Doğan Geçidi) nâmında yeni,nehrî kenarında kulağuzlarım olan kızaklarla (Duğan geçidi) nâmında yeni
+test_00383,Oynanan bu komedya Nerîmân’a ne kadar müellim geldi.,Oynaman bu kumduya Nerîmâne ne kadar müellim geldi.
+test_00384,Birdenbire Halim Şükrü: - Vay Şefik Nuri Beyefendi teşrif,- Vay Şefik Nuri Beyefendi teşrif
+test_00385,- Öteki cihet nedir? Kocam hasta mı,- Otenki cihet nedir? Kocam hasteme mi
+test_00386,suhûlet bulmak içün bu mahallde ʻadüvv-i din ü devlet olanların,sühûlet bulmak içün bu mahalde adevi dîn ü devlet olunların
+test_00387,Cumhuriyet-i idarenin tatbikât safahatının hatalı olduğunu iddia edecek kadar henüz zaman,Cumhuriyet idarenin tatbikat-ı soğhatının husali olduğunu iddia edecek kadar henüz zaman
+test_00388,"komşuları Müslihiddin Efendinin hanesine, Vicdanın nezdine",komşuları musahaddîn efendinin hanesine vicdanın nezdine
+test_00389,müzâyaka ve kıllet çekilirmiş. Süleymân Hân İslâmbol'un garbında bir menzil-i ba‘îdde,mazâika vaklet. Çekirlermiş. Selmân Hân İslâmbûlân garabında bir menzel ba‘yda
+test_00390,"unutmaya çalışırım. Ve kim bilir, eğer tatlı ve şefkatli olursan","unutmaya çalışırım. Ve, kim bilir, eğer tatlı ve şefkatli olursan"
+test_00391,itibaren komisyona iştirak edebileceklerdir.,itibaren komisyon’a iştirak edebileceklerdir.
+test_00392,Evvelki gün size ziyarete geldiğimde takip edildiğimi söylememiştim. Avdetimde biri sarı bıyıklı,evvelki gün sizin ziyarete geldiğimde takip edildiğimi söylememiştim. Avdetimde biri sârî bıkılı
+test_00393,ʻArabîye terceme olunup baʻzı mesâlik-i memâlik kitâblarında atvâl,Arabîye türhüme olunup bazı mesâlik-i mümâlik kütiblerinde etval-i
+test_00394,Rüstem'i müteselli etmek için güya tesliyeti,Rüstem'i müteselli etmek için küyâtesliyet
+test_00395,alınacaktır. Fakat asıl maksadımız düşmanları-,"elinecektir, fakat asıl maksadımız düsümanlar-"
+test_00396,"olunmalıdır. Gediz muharebesinden sonra da vaziyet-i umumiye fecî bir manzara arz edince,",olunmalıdır. Güdüs muharebesinden sonra da vaziyet-i umumiye feci bir münazara arz edince
+test_00397,tatlı nevaziş muhavereleri bir daha tekerrür etmeyecek miydi?... Artık,tatlı nevaziş muhavereleri bir daha tekirretmeyecek miydi?... Artık
+test_00398,"Esnâf-ı câme-şûyân ya‘nî çamaşırcıyân- Dükkân 300, neferât 500.","Esnâf-ı câmiş-yân yani çamaşırcıyân- Dükkân 300, neferât 600."
+test_00399,"- İyi değilim... dedi. Bu gece zannederim, ateş geldi, sabaha","- Ayi değilim... dedi. Bu gece zannederim, ateş geldi, sabaha"
+test_00400,vekilidir. Kendisi bugünlerde rahatsız olduğundan yazıhanesine gelmiyor;,ve giliydir. Kendisi bu günlerde rahatsız olduğundan yazıhanesine gelmiyor;
+test_00401,Ve kendisini dinleyen hanımefendilere hitap ederek:,ve kendisini dinleyen Hanım
+test_00402,neşelerine memba olan büyük bir sihir tesiri vardı.,neşelerine münbevlan büyük bir sahir te’iri vardı.
+test_00403,onunla dahi raks eyledi. Hatta herkesin,inke dahi raks eyledi. Hatta herkesin
+test_00404,"Niçün ona acıyordu? O, muzdarip değildi ki...","Niçin ona acıyordu? O, muzatarp değildiğe..."
+test_00405,Binaenaleyh Rüstem o gün birkaç mûteber,Binaenaleyh Rüstem o gün birkaç muattber
+test_00406,"sadedinde ve askerî, millî tertibât ve teşkîlât hususlarında muhhaberâtımız vardı. Kendisinden,","seddinde ve askerî, millî tertibat ve teşkilât hususlarında muhaberâtımız vardı. Kendisinden,"
+test_00407,"Haydi, burada da kameriyera olduğundan kendini tutmak lazım","Haydi, burada da kameriyera olduğundan kendini tutmak lazım"
+test_00408,ne kadar şiddetli görürler! Ali Paşa için,te kadar şiddetli göreler! Ali Paşa için
+test_00409,dokuz yirmi yaşında sarışın bir genç:,dokuz yirmi yaşında sarışın bir genç:
+test_00410,Maktüllerin akrabası zaten ağlamakta,makitilerin akrabası zaten ağlamakta
+test_00411,"mükemmeli, en âlîsi olmakla beraber yine muhtâc-ı îzahdır;","Mükemmeli, en âlîsi olmakla beraber yine muhtaç izahtır;"
+test_00412,hitaben:,Halaben:
+test_00413,hitam eyleyen işbu 1800 senesi Napolyon'un,hitam eyleyen işbu. 18 senesi Napoli'nun
+test_00414,olan Rüstem ile bir de Eftimi mesailni araya,olan Rüstem ile bir de Eftimi mesalini araya
+test_00415,Şefik Nuri:,Şefik Nuri:
+test_00416,"hamâmı) Cündîlere, (Müftî hamâmı) Müftîlere, (Gedik Paşa hamâmı) Zü‘amâya,","hamâmı) cendilere, (Mefetti hamâmı) müfetîlere, (Kedgüpaşa hamâmı) zamâya,"
+test_00417,istemez misiniz?,istemez misiniz?
+test_00418,mektup mazmununa vakıf olsa,mektubup matemone vakıf olsa
+test_00419,verdiniz de söylüyorum. Benim namem okunduğu zaman her,verdiğinizde söylüyorum. Benim namam okunduğu zaman her
+test_00420,Zaten kedi kadındır” diyordu.,zaten kedi kadındır” diyordu.
+test_00421,‘add olunan mecmûa-yı dilküşâyî bu tarîkle kitâbet eyledi ki müverrihân-ı Rûm ve nükte,‘Ad evl-i ilen mehû‘ûha-i dilkişâyı bu tarîkle kitâbet eyledi ki mûrhân-ı Rûm-i ve nekte
+test_00422,Çehre mütenasip ve burun Yunan-ı kadim heya-,çehremetinasip ve bürun Yunan kadim haya-
+test_00423,bir memur ile aramda hiçbir mühim keyfiyet tasavvur edemediğim,bir meemor ile aramda hiçbir mühim keyfiyet tasavvur edemekim
+test_00424,seda bile mahallenin ölü sükûnetini bozduğu için sanki,Suda bile mahallenin ölü sükûtünü bu zedifi için sanki
+test_00425,"bir odaya çekilip yedi bin, yedi yüz, yetmiş yedi","bir odaya çekilip yedi bin, yedi yüz, yetmiş yedi"
+test_00426,gördüğüm gençlere bütün hissiyatımı saffetle dökeyim de sonra,gördüğüm gençlere bütün hasiyatımı saffetle döğeyim de sonra
+test_00427,ibaret vadi değil!,ibaret vadi değil!
+test_00428,Hizmetçilerin yanında Fatma Hanım’ın enine boyuna,hizmetçilerin yanında Fâtma Hanımın en nevine
+test_00429,Artık her şey bitmişti... Demek düşündükleri hep sahih ve vakiydi.,artık her şey bitmişti... Demek düşündükleri heb-i sahih ve vakadı.
+test_00430,"belahetle bakıyor, o anda tek bir lakırdı söylemek için kudret bulamadığı","bahatle bakıyor, o anda tek bırlıktı söylemek için kudret bu lamadığı"
+test_00431,tutuştu da ben ondan hoşlanamadımdı..” tarzında,tutuştu da ben ondan hoşlanamadı...” tarzında
+test_00432,dahi mahal-i mezkûre intikal edecektir. Bu içtimaî müteakip Hey’et-i Temsîlîye suret-i münasibede takviye,dahi mahall-i mezkûre intikal edecektir. Bu ictima müteakip Heyet-i Temsiliye suret-i münasebede takviye
+test_00433,rüesa-yı saireden kat-ı nazar Dimo ve Trandefil,Rüsâ-yı saireden kat' nazar demiyotur-ı ende fîl
+test_00434,Abdullah Azmi Efendi’nin “Meselenin ehemmiyeti derkârdır. Müzakere devam etsin.” Diye,‘Abdille azî Efendinin “Mesele’nin ehemmiyeti derkârdır. Mezakere devam etesin.” diye
+test_00435,"temin edecek bir şekli, Hükümet’e teklif etmiş idim. Bunda mutabık kalmıştık. Bu husus","temin edecek bir şekli, hükûmete teklif etmiş edim; bunda mutabık kalmıştık. Bu husus"
+test_00436,ise o kâtibler de bir şey kaleme alabilmek için diğer bir adamın,ise ökâtiblerde bir şey kalma alabilebilmek için diğer bir adamın
+test_00437,"Muharebe hatlarına mücavir köyler ahalisinin yapabileceği müdafaadan, hayalî neticelere intizar","Muhtazâr’ya hatılarına müvverköyler ahâlisinin yapabileceği müdâfa’adan, hayali neticeler ihtizar"
+test_00438,tafsîlleri gelir.,tasîlleri gelir.
+test_00439,müfrezemizin silahlarını aldılar. Hükümet memurlarıyla zabitânı hapsettiler.,meferzenizin silahlarını aldılar. Hükûmet-i memurlarıyla zabitânı habsettiler.
+test_00440,Fuat birdenbire başını çevirerek manalı bir ısrar ile ve kati bir eda,Fuat birdenbire başını çevirerek manalı bir ısrar ile vakat’ bir eda
+test_00441,"Perran, bir nefha ile böyle yüksek bir saadet yaratmak zevkinin mestîsi","Perran, bir nefaha ile böyleyen bir saadet yaratmak zevkinin müstisi"
+test_00442,"(7) İmanı mevkuf, yani kâfirlerin imanıdır. Hidâyeti İlahî müyesser olursa","(27) İmân mevkûf, yani kâfirlerin îmânîdir. Hudâyet elmi müseyser olursa"
+test_00443,yeʼis ile idbârlarına müʼeddî olup âkıbetüʼl-âkıbe mebâdî-i,peʼs ile iddârlarına müʼdî olup ‘âfebt-i ilâkibe mübâdî-i
+test_00444,"Filhakika, Ahmet ‘İzzet Paşa’nın şifre dahilinde kalan imzasıyla, Harbîye Nâzırı Cemâl Paşa’dan","Filhakika, Ahmed İzzet Paşa’nın şifre dâhında kalan imzasıyla, Harbiye Nâzırı Cemâl Paşa’dan"
+test_00445,olan lisanımızı tahsil husûsundaki,olan şeylerden biri de lisanımızı tahsil hususundaki
+test_00446,bin bir hutbesi tilâvet olunub hâlâ ma‘mûr câmi‘lerdir. Andan yerine oğlu,bin bir hatba sı tilâvet olunup hâl-amamûr câmi‘lerdir. Andan yerine oğlu
+test_00447,Bu şüphelere lüzum var mı?,bo şüphelere lüzum var mı?..
+test_00448,Zişan - Kısmet hangisi ise olur diye...,Zişan - Kısmet-i hangisi ise o olur diye...
+test_00449,ü taraf verüb Orhân Gâzîye gelüb mülâkî olduğu gibi Bursa üstüne,vutraf verüb urhân Gâzîye gelüb mülâkı olduğu gibi bir vese üstüne
+test_00450,- Şimdi bunun adını ne koyacağız? Validesinin,- Şimdi bunun adını ne koyahıhız? Ve eldesinin
+test_00451,ve vüzerâzâde sâhib-i tab‘ çelebiler ve berber dükkânlarında üstâd-ı kâmiller perveriş,ve üzerâ zâde sâhib-i tab‘ çelebiler ve bir dükkânlarında üstâd-ı kâmiler pürûrş
+test_00452,"Bu iki ateş arasında hiçbir yere tutunamayarak, perişan bir","Bu iki ateş arasında hiçbir yere tutunamayarak, perişan bir"
+test_00453,C: Sahib-i takrir mebusların isimlerinin ve bu takriri kime hitaben verdiklerinin işarına,C: Sâhib-i takrir-i Mebusların isimlerinin ve bu takarrîri kimme hataben verdiklerinin işarına
+test_00454,ile tekrar etti. İcra Vekîlleri Heyet-i Riyaseti’nden şu cevap verildi:,ile tekrar etti. İcira Vekîlleri Heyeti Riyâsetinden şu havâb verildi:
+test_00455,ve hatta ikisine birden bir fenalık dahi ederek,ve hatta ikisine birden bir fenalık dahi ederek
+test_00456,hepimizi birer yere saklayacağından kendi,hıçımızı bir yere saklayacağından kendi
+test_00457,binâ olunmuş medâris vardır. Ba‘dehu mezkûr tâbhâneleri câmi‘e ilhâk edüb,binâ olunmuş medâris vardır. Ba‘de mezkûr tâbiheneleri câmi‘e ilhâk edüb
+test_00458,ve hüsn-i nizâm ve tertîb-i mâhüveʼl-merâma rağbet ve mürâʻatda husûlü,ve hüsn-i nizâm ve tertîb-i mâhül-mârâmağebbet ve merâʻânla-i husûlî
+test_00459,"için arkadaşlarla hasbıhallerde bulunduğunu söyledikten sonra, “bizim eğer tenkit etmek istediğimiz",için arkadaşlarla hasabalılarda bulunduğunu söyledikten sonra “Bizim Eğret-i takîd etmek istediğimiz
+test_00460,eylemek delâleti fenn-i merkūma mevkūf ve ânın hassa ve menâfîʻinden,İylemek dellâlini fırkûsa mevkuf ve onun-ı hâsa ve menâfaʻından
+test_00461,"Câmi‘leri: (Defterdâr Paşa Câmi‘i), (Baltacı Mahmûd Ağa mescidi)","Câmi‘leri: (Defteridâr Paşa câmi‘i), (Bâlâ‘aca-yı Mahmûd Ağa mescidi)"
+test_00462,Bursalıdır. (Gülşenî) Sarhanîdir Mısır'da medfûndur ammâ İbrâhîm Gülşenî,Bursalıdır. (Külşini) Sârhânîdir Mısır'da medfûndur. Ammâ İbrâhîm gelmişini
+test_00463,tarihi adi kitabet ve lisanla beyan etmesinde hiçbir semere hasıl olmaz.,tarihi adi kitabet ve lisan ile beyan etmesinde hiçbir-i semre hasıl olmaz.
+test_00464,Karadeniz'in dört tarafını zabt u rabt eyledi. Sonra büyük oğlu (Arondo)yu,Karedenizin dört tarafı sabt urut eyledi. Sonra büyük üğlu ârûndu) yı
+test_00465,Sitayiş-i âb-ı hayât-ı Sarây-ı ‘Atîk,Sütey’iş âb-ı hayât-ı Sarâ-y-ı Atîk-i
+test_00466,el'in bu sözdeki ciddiyete ne derecelere kadar,Sülk bu sözdeki ciddiyete ne dereceler kadar
+test_00467,sürüye sürüye tramvay yoluna fırlatıp atmamak için zorla kendini,Soruya sürüye tramvay yoluna fırlatıp atmamak için zorla kendini
+test_00468,- Uğurdur Hacer Abla... Uğur...,- Uğurdur hacer abla... Oğur...
+test_00469,"Sabahleyin, uykusundan uyandırıldığı zaman şakaklarına bir ağrı","sabahleyin, uykusundan uyandırıldığı zaman şakaklarına bir ağrı"
+test_00470,"yapılı, ceylan gözlü, güzel, cazip fakat parasız","yapılı,cilan gözlü, güzel, cazip fakat parsız"
+test_00471,990,9.
+test_00472,hasıl olan o ilk inbisat-ı hazzında gide gide,hasıl olan o ilk intibat hazında gide gide
+test_00473,Nerîmân sana ne dedi? sualiyle gözlerimin içine,Nerîmân sana ne dedi? Süalüle gözlerimin içine
+test_00474,bu yazdığım şeyleri bir şeye hamletmeyiniz...”,buyazdığım şeyleri bir şeye hamil etmeyiniz....”
+test_00475,Bunlarda neferâtlarıyla otluk emîni ve otluk çorbacısı at başı berâber,Bunlar da neferânlarıyla otluk emînî ve otlûk çorbacısı ât-ı bâşı biraber
+test_00476,"Çiçekleri sever, kelebeklerin arkasından koşar, bahçeye","çiçekleri sür, kâbeklerin arkasından kuşar, bahçe'ye"
+test_00477,Zeyneb solgun elleriyle Fâtma’nın omuzlarından tuttu. Yeşil,Zeyneb Solyun elleriyle Fâtmanın omuzlarından tuttu. Yeşil
+test_00478,"ediyor, ve oracıkta kanlar içinde yerlere yuvarlanmaktan başka bir emel","ediyor, ve oracakta kanlar içinde yerlere yuvarlanmaktan başka bir emel"
+test_00479,ziyade izahata lüzum göremem.,ziyade izahata lüzum göremem.
+test_00480,"pâyidâr edecek, hukuk-ı âmmeyi gözetecek, emn ü asayişi ihlâl edecek hâdisâta mâni","peder edecek, hukuk-ı amayı gözetcek, emn ü asayişi ihlâl edecek hadisata mâni"
+test_00481,istinat ettirilmezse olmaz. Ermenilerde bu kuvvet olamaz. Amerika bu lutfu yapamaz. Diğer devletler de,istinat ettirilmez. Olamaz. Ermenilere bu kuvvet olamaz. Amerika bu lütuf yapmaz. Diğer Devletlerde
+test_00482,"Zeynî, Mevlüdi, Rûşenî, Gülşenî, Bektaşî, Ni‘metullâhî, Nûrbahşî tarîkleri","Zeyn, Mevldî, ruşunu, gelmişini, biktaşı, nammet elli, Nûrîhşi tarîkları"
+test_00483,"dediler. Nemse lisânında (Kostantîn Opol), Maskovlar (Tekfûrya) derler.","dediler. Nemselsânında (Kostantîn öpül), miskûlar (tekfüriyye) derler-"
+test_00484,Amerika’nın bize müzâheretini Cemiyet-i Akvâm’a karşı taahhüt etmesi.,Amrika’nın bize müzahreti cemiyet-i ifvama karşı taaht etmesi.
+test_00485,"tanıyordu... Dünyanın bugün güzelliklerini görmüş, tanımışdı...","tanıyordu... Dünyanın bugün gözeliklerini görmiş, tanımıştı..."
+test_00486,kıskanırız. Aşkımızın delilini ister isen sineni yokla...,"kıskanırız. Aşkımızın delilini istir isen ki, sineki yokla..."
+test_00487,"her şeyi doğru, tabii görmeye uğraş. Sahnelerde","her şeyi doğru, tabi’i görmeye uğraş. Sahinelerde"
+test_00488,Ehl-i İslâm zuhur eyledikte hulefa zamanında iptida sulhla fetheden “İyâz,ehl-i İslâm zuhûr eyledikde hilfa zamanında ettâ sılahle feth eden kayyaz
+test_00489,"başlar sallanır, kollar kıpırdar, göbekler oynar... İçki",başlar sallanır. Kollar kıpırdar. Göbekler oynar... İçü
+test_00490,bu fenni kuvvetden fiʻile getürüp ekâbir-i mülûk-ı Nasârâ ʻaskerlerine,bu kani kuvvetten kıtla keşür ve büʼkebir-i mülûk-ı Nasârî ʻaskerlerine
+test_00491,intikāl ve ıttılâʻda dâmen-i gayret-i âcizâne meyân-ı saʻy,intikâl ve ʻlâh-ı adem-i gayret-i ‘âcizâna müyân-ı
+test_00492,Beşiktaş Mevlevîhânesinin şeyhidir. Mevlevî Dervîş Yûsuf'un ney çaldığını,beşiktaş mevlevî hânesinin şeyhidir. Mevlevî dervîş Yûsuf'un ni çaldığını
+test_00493,- Sabih Beyin kalemine git. Usulca odacı ile,- Sabih Beyin kalmine git.. Esolca odaca ile
+test_00494,zarfında intaç edebileceğini bildirmiş..,zarfında intaç edebileceğini bildirmiş..
+test_00495,Zikir durdu.,Zekir tavrdu.
+test_00496,şuh-meşrep pek latife-gû olup,şuh müşrap pek latife gü olup
+test_00497,"hadisât ve inkılabâta şamil olacaktır. Bu beyanâtım, esasen herkesçe vazıhan malum olan veyahut","hâdünât ve ikilâta şamil olacaktır. Bu beyanâtım, esasen her kesce ve izhan malum olan veyahut"
+test_00498,lohusayı niçin düşünmediniz? Daha birkaç akşam,lohusayı niçin düşünmüdünüz? Daha birkaç akşam
+test_00499,sahifelerini döne döne hatmetmeye doyamıyorlardı.,sahifelerini döne döne hatta etmeye duyamıyorlardı.
+test_00500,"Perran, müdebdep şinşilla mantosunun âguşunda büzülmüş, küçük","Perran, müdebip, şenşilâ matusunun ağuşunda bizulmuş, küçük"
+test_00501,fevkindeki deruni bu müthiş mücadeleden her gün biraz daha,Fevkındaki derunu bu müthiş mücadeleden her gün biraz daha
+test_00502,becerebilirim ama yalnız iki kişiyle oynanan,Bencerebilirim ama yalnız iki kişi ile oynanan
+test_00503,bir fotografisiyle validesine koşarak teessür yaşlarını saça,bir fevtuğrafısıyla validesine kuşarak teessir yaşlarını saça
+test_00504,odanın içinde dolaşmaya başlayarak:,odanın içinde dolaşmaya başlayarak:
+test_00505,musanna‘i söylemişdir:,Müsnâ-i söylemişdir.
+test_00506,hükmettiği memalike şamildir. Hilafet bütün küre-i arzdaki İslam’a şamildir.”,hüküm ettiği münkü’e şamildir. Hilafet bütün kere-i arzdaki islama şamıldır.
+test_00507,Diyarbekir’de On Üçüncü Kol Ordu Kumandan Vekili Cevdet Bey Efendi’ye,diyâr Beyerde on Üçüncü Kol Ordu Kumandan Vekili cevdet Beyefendi’ye
+test_00508,- Kolay değilse kızım bunu sen kendin,- Kula-yı değilse kızım bunu sen kendin
+test_00509,Zervas isticvap olunarak verdiği,zervas isticip olunarak verdiği
+test_00510,diye Soli geçidini geçti. Fotos'un karyesine,diye Soli geçtiydini geçti. Fotos'un karyesine
+test_00511,"atılarak Perran’ı işitmeyince, en acı bir hezimet tavrıyla başını dövüyordu.","atılarak Perran’ı işitmince, en acı bir hezîmet durulabilişini dervüyordu."
+test_00512,yazmış. Dur bakalım. Bu hastalığın altından da,yazmış. Tur bakalım. Bu hastalığın altından da
+test_00513,"""Eyâlet-i Tarabulus-şâm-"": sancak 6, ze‘âmet, 63 tîmâr 215, ""Eyâlet-i cedîd","“İyâlet-i Trâb-ı şâm"": sancak 2, zâmet 36, Temâre 10, 1, İ’âlet ciddîd"
+test_00514,ü muğâyir hareketde bulunmayark Kostantîn'e dahi sûret-i dostâne de nice şikâr,ve mügayâr-ı hareketde bulunmayarak Kostantına dahi sûret dostâne de nice şâr-ı
+test_00515,Bizim kısmetimiz acaba ne taraftan zuhur edecek diye,Bizim kısmız Aceba ne tarafından zuhur edecek diye
+test_00516,ambar zannetmemelidir. O murabbaın içinde bir,ambar zannedil midir. O merbak içinde bir
+test_00517,Hacer artık kendinin kadınlık revacından kalmış olduğunu,Hacer artık kendinin kadınlık ravacından kalmış olduğunu
+test_00518,Kaya Sultân'a hibe etmişdir. Vâcibü's-seyr bir yalıdır. Bunda bir fevkânî şâdırvân,kyyâ sultâne hebe etmişdir. Vâcib-i elsîr bir yalıdır. Bunda bir fevkânı şâdırvan
+test_00519,riayet etmek şartıyla bu müsaadeye de minnettar oldu.,reyet etmek şartıyla bu müsaadeye de minnetdâr oldu.
+test_00520,dostla insan yemek yer de masrafını kendi tesviye ederse elbette kendisine,dostla insan yemek yerde musrafını kendi tesviye ederse elbette kendisine
+test_00521,İstânbûl’daki memurumuz vasıtasıyla Hariciye Vekâleti’nden Düvel-i Müttefika mümessillerine verilmesini tensip,İstanbul’daki memurumuz vasıtasıyla Hariciye vekâletinden dol müttefka mümessine verilmesini tensip
+test_00522,"Tekrar eliyle yüzünü kapayarak koltuğa düştü, gürültülü hıçkırıklar","tekrar eliyle yüzünü kapayarak koltuğa düştü, gürültülü heyçkırıklar"
+test_00523,"cildi, neresi gömleğinin ipeği olduğu tayin edilemeyerek beyaz","Cildi, neresi gömlenin iki olduğu tayin edilemeyerek beyaz"
+test_00524,Bu bir maharet-i hulkiyyedir. Fakat maatteessüf binde,bu bir müharet halkayedir. Fakat mü’letesif beyde
+test_00525,"Erzurum Kongresi’nin, daha evvel izah ettiğim esasât ve mukarrerâtını, herhangi bir heyet-i temsiliyenin","Erzurum Kongresi’nin, daha evvel izah ettiğim esasât ve mukarreâtı, herhangi bir heyet-i Temsiliyenin"
+test_00526,"bu kadar umumî ve gayrikabil-i teskin galeyanı Erzurum’da, ne Vâlî Vekîli, ne Kolordu Kumandanı","bu kadar umumî ve gayr-i kabil teskin-i galeynî Erzurum’da ne vali Vekili, ne Kolordu Kumandanı"
+test_00527,"Filhakika, başta Müftû Efendi olduğu halde, (elyevm Diyanet İşleri Re’îsi bulunan muhterem","Filhakika, başta müfetti olduğu halde, (elyevm diyat işleri Reisi bulunan muhterem"
+test_00528,gece bir zelzele-i azîme- olub Galata kal‘asının niçe yerleri münhedim olub bade‘hu,Geyce bir zelzle-i azîme olub Galata kal‘asının nice yerleri münehdem olub ba‘de
+test_00529,"nâzır bir kapısı vardır. İçinde dizdâr hânesi, neferât evleri, iki yüz kadar","nâzır bir kapusu vardır. İçinde dizdâr hânesi, neferât oluru, iki yüküz kadar"
+test_00530,ne olduğunu bilenler böyle bir iddianın ne kadar gülünç olduğunu elbette anlarlar.,ne olduğunu bilenler böyle bir idda’nın ne kadar gülünüç olduğunu elbette anlarlar.
+test_00531,kendilerine mahsus bazı mülahazalarına ilave ettikleri itiraz şu idi: Kendileri daha evvel,kendilerine mahsus bazı mülahazalarına ilave ettikleri itiraz şu idi: Kendileri daha evvel
+test_00532,"6 - Hey’et-i Temsîlîye’mizin nokta-i nazarı, bervech-i bâlâ ‘arz olundu. Bu gibi hususâtta,","6- Heyet-i Temsiliyemizin nokta-i nazarı, bir ve cehal-i arz olundu. Bugu hususta,"
+test_00533,diktatörlüğünü kabul ve tasdike müncer olacağını anlamamak kâbil mi idi?,Dikit öltürülüğünü kabul ve tasdik’a müncer olacağını anlamamak kabil mi idi idi?
+test_00534,"fakat feci bir adem girdabına sukut ettiklerinden emin, ve muzmahil,","Fakat feci’ bir adem girdabına sukut ettiklerinden emin, ve mazahammül,"
+test_00535,ediliyor gibi bir sual varid-i hatır olursa da Çinliler mevki-i coğrafyamızdan,ediliyor gibi bir sual vard-ı hatır olursa çınlılar mevki Cağrafımızdan
+test_00536,"Efendiler; Ra’ûf Bey’in, faaliyetinin hedefini ve maksadının mahiyetini anlamak için, bir haftalık","Efendiler; Ra’ûf Bey’in, faaliyetinin hedfini ve maksadînin mâhiyetini anlamak için, bir hıftalık"
+test_00537,oğlanlarıdır. Yeniçeri ocağına ta‘yîn verir gayrıya vermezler. Meğer fukaraya,oğlanlarıdır. Yeniçeri ocağına ta‘yîn verr-i gayrîye vermezler. Meğer fakraya
+test_00538,bilirdim. Siirt Mebusu Sa‘dullah Bey ortada yok.,bilirdim. Sa’ret-i Meb‘û’î sa’dâl’la Bey ortada yok.
+test_00539,"vazifeyi ifadan geri durmadılar. Tekrar Kütâhya’ya teveccüh ederek, orada bulunan zayıf","vazifeyi efenden geri dörmedipler. Tekrar Kütâhîye tevce ederek, orada bulunan zayıf"
+test_00540,olmayıp Kalikala el-yevm Kalaylı denilen mahalin civarındaki harabenin ismi olup,olmayıp kalıkla ilum kalaylı denilen mahallik civarındaki harabenin esmî olup
+test_00541,görüşmek üzere müsaade etmişti.,görüşmek üzere müsaade etmişti.
+test_00542,mahfuziyeti mühim olduğunu ve ufak tefek sebeplerle Heyet-i Vekîle’yi sarsmak caiz olmadığını arz ettim.,muhafuziyeti mühim olduğunu ve ofak tüfek sebilerle Heyet-i Vekileyi sarsmak cesir olmadığını arz ettim.
+test_00543,Perran:,Perran:
+test_00544,ve bîşümârdır ancak hafî buyrulmaya ki işbu arsagâh-ı fesîhat,ve bey-i şimârdır ancak hafi yurulmaya ki eşbu arına kâfe fesîk-i
+test_00545,da düşmanlık edemem. Ağlarım. Çocuk gibi,de düşmanlın edem. Eğlarım. Çocuk gibi
+test_00546,Heyhat!.Ben sağ kalırım. Karanlıkların her tarafımı örtmesinden,hebhat! Ben salığ kalırım. Karanlıkların her tarafı örtümesinden
+test_00547,edince ol sene dest-i küffârda Kostantîniyye şehri ma’mûr u âbâdan olub Âl-i,edince evvel sene dest-i kifârda Kostantîniyye şehri ma‘mûr u âbâdân olub al
+test_00548,salahiyetini bizden nez etmektir. Bu hal de gerçi bizim için küre-i arz üzerinde görülmemiş,"salahiyetini bizden niz etmektir. Bu halde, gerece bizim için küre-i irz üzerinde görülmemiş"
+test_00549,"Bu hususta 3üncü, 13üncü ve 15inci Kol Ordu Kumandanlarına icabı gibi tebligât ve temenniyâtta","bu hususta senci, 31inci “İncü Kol Ordu Kumandanlarına icabı gibi tebligât ve temniyâtta"
+test_00550,kadar birçok felaketler arasında? Yaşadığı gibi yine yaşar.,kadar birçok felaketler arasında? Yaşadığı gibi yine yaşar.
+test_00551,- Nasıl yetiştirmem... dedi.,- Nasıl yetiştirmemeyim... dedi.
+test_00552,1 - Zat-ı sami-i riyasetpenâhilerine karşı perverde eylediğim hürmet ve muhabbete itimat buyurulmasını,1- Zat-ı Sâmî-i riyasetpenahilerine karşı pürûr’de eylediğim haremet ve muhabbete itimat buyurulmasını
+test_00553,"benzemeyen, güzel, harikul’ade güzel, mağrur bir Fâtma...","beğizmeyen, güzel, harakül-mâde güzel, mağrûr bir Fâtma..."
+test_00554,için Dilsitân’ın kulağından tutarak esvablarının,için delistanın kulağından tutarak esvâplarının
+test_00555,"bulundu gelin ey ehibbâ? Sizinle şu seccâdemin mahallinde bir kuyu kazalım"" diyerek",bulundu kâlin-i İhâbâ; sizinle şu sücâde mühleme bir kuyu kazalım” diyerek
+test_00556,düşmüş bularak hayretle:,düşmüş bularak hayretle:
+test_00557,istedi. Diğer vekiller de aynı suretle şikâyetlerde bulunuyorlardı.,istedi. Diğer vekillerde aynı sörenle şekâyetlerde bulunuyorlardı.
+test_00558,Bâlâdaki maruzât ve mütalaatımızın kemal-i ehemmiyet ve ciddiyetle nazar-ı dikkate alınıp icabâtına tevessül ve bizi,Bâlâdaki maruzât ve mütalaiyâtımızın kemal-i ehemmiyet-i vicidiyetle nazardıka alenup içabetine tevessül ve bizi
+test_00559,[1]Fransızların loulou dedikleri cinsinden Binnazın pek,[1] Fransızların (levler) dedikleri cinsinden Binnazın pek
+test_00560,küçük denizlerde bilâpervâ gezerler. Pîrleri (İkrime bin Ebû Cehil) dir ki feth-i,ve küçük değizlerde bilâ pürâ Kızırlar. Pîrleri (‘Ağrımâ bin Ebücehl) dir ki feth
+test_00561,Mükrime o kadar da dilbaz olmuştu ki,Mükrime o kadar da dilbaz olmuş idi ki
+test_00562,gûnâgûn akmişe-i fâhirelere müstağrak olub (Yâ Sübhân!) sadâsını sindirerek,gûnâ-gûn akşa-i Fâhirre müstifrak olub (Yâsebihân!) sadâsını seyendirerek
+test_00563,"Ölürüm, emrinden bir harf dışarı çıkmam.",olurum emrikten bir haref dışarı çıkamam.
+test_00564,sessiz sedasız kaçışıyorlardı.,sesiz sedasız kaçışıyorlardı.
+test_00565,o kadar ağrıtmaz... Bu sefer iyice süslen de git...,o kadar ağr-ı yatmaz... Bu sefer eyce söslen de git...
+test_00566,mahalinde Galata'da yatan kâfir galyonlarının direği üzerinden bir top kurub güllesini,mahlinde Galata da yan kâfır kılıyorının direki üzerinde top kurub gelmesini
+test_00567,Zata mahsustur.,zata mahsûsdur.
+test_00568,Nûriye Hanım - Sen de orta hizmetinde bulun.,Nuriye Hanım - Sen de orta hizmetinde bulun.
+test_00569,"son haddine kadar îfâ etmeyi mukaddes bir borç bilerek, bu vapurda biriken,","son hadine kadar ifa etmeyi mukaddes bir borc bilerek, bu vapurda birinen,"
+test_00570,"temkin, vakur bir sekinet görerek mütehayyir oluyorlar.","temekin, vukur bir sekinet görerek mütehayyorlar."
+test_00571,parlemento azaları bazı kere boğaz boğaza,parılmıntı ızaları bazı kere boğaz boğaza
+test_00572,Alî Rızâ,Ali Râzâ
+test_00573,zikretmeme müsaadenizi rica edeceğim. Malumdur ki Büyük Millet Meclisi’nin hin-i teessüsünde,Zekretime müsaadekenizi rica edeceğim. Malumdur ki büyük Millet Meclisi’nin hîn tesisinde
+test_00574,sana mı düşmüş.,sana mı düşmiş.
+test_00575,"Efendiler; bu doğru değildir. Başkumandan, Meclis’i; menabi-i maliyeyi tetkikten ne vakit men‘","Efendiler; bu doğru değildir. Başkumandan, Meclisi, münâbebi‘i‘i maliyeyeyi tetkikten ne vakit men"
+test_00576,işin şimdiki hâlde bu kadar ehemmiyeti de,İşin şimdiki halde bu kadar ehemmiyeti de
+test_00577,"bir geceydi. Tıpkı, şu şark ufkunu pürcuş u huruş nurlarıyla","bir gece idi. Tabkı, şu şark ufkunu pürüş ve hurûş nurlarıyla"
+test_00578,"ettik. Kendisine ilk sualim şu oldu: “Paşam, niçin hilafet ordusu kumandanlığını kabul","ettik. Kendisine ilk su’alim şu oldu. -Paşam, niçin hilafet ordusu Kumandanlığını kabul"
+test_00579,"zevç, zevce yekdiğerinin tamamıyla aşinâ-yı raz-ı",zevç zevce yekdiğerinin tamamıyla işinâ-yı raz
+test_00580,Ebu Zeydi’l- Faris 224,Ebü zîdü'l-gafars
+test_00581,"müselsele ile ilave ediyor. Telgrafı yazan, bu zat, Erkân-ı Harbîye Mirlivalarından ‘Abdü’lkerîm","mesasla ile ilave ediyor. Telgrafı yazan, bu zat, erkân-ı Harbiye mîrlevâlarından Abdalığım"
+test_00582,humusu kadarını yere serdikten sonra nefs-i,hısı kadarını yere serdikten sonra nefs-i
+test_00583,"dediği gibi, “Hart meselesi, yalancı peygamberin ve oğullarının ve tevabînden bazılarının itlafı","dediği gibi “Hâret meselesi, yalancı bağmın ve oğullarının ve tevabünden bazılarının ilafi"
+test_00584,Bir aya karip bir zaman tarafeyn sükûnetini muhafaza eder göründü. Bu müddet zarfında ʿİsmet,Bir aya karıp bir zaman tarafın sükûtini muhafaza eder göründü. Bu müddet zarfında ismet-i
+test_00585,yok ki velvele versin. Bilakis velveleyi,yok ki velvele ve yerson. Belakis ve lula'yı
+test_00586,câmi‘i hareminde medfûndur. Kaderi muhlisi tahallüs eder eş‘ârı vardır.,câmi‘i hareminde medfûndur. Kadarî muhâlisî tahass eder eş‘ârı vardır.
+test_00587,kadar isal etmek cümle-i vezaiften ola-,kadar ısıal etmek cümle-i vazasından ola-
+test_00588,Solyotların muhtaç oldukları ithalata,Solyotların muhtaç oldukları iddhalata
+test_00589,"hakkında, kısa bir program tespit ve arkadaşları tavzif ettim.","hakında, kısa bir program tespit ve arkadaşları tevzif ettim."
+test_00590,habisler ise hem Rüstem'in getirdiği zahire,habisler ise hem Rüstem'in getirdiği zahire
+test_00591,Kâdî-ı ‘asker-i İslâm-ı güzîn O ‘Alî nâm reîsü'l-fuzalâ,Evay'lı nâm-ı Re’îs-i el-fazla
+test_00592,muhalif olarak vuku bulacak beyanâtımla şimdiye kadar o zat hakkında göstermiş olduğunuz,muhalif olarak vuku bulacak bîlâtımla şimdiye kadar o zat hakkında göstermiş olduğunuz
+test_00593,Neyse ben gücenmedim. Belki şeyh kendisi akşama,ne ise ben gücümedim. Belki şeyh kendisi akşama
+test_00594,diğer bir ikisini daha kendi politikasına,diğer bir ikisini daha kendi politukasına
+test_00595,bu sarâyda harem bünyâd olmamışdır. Ba‘dehu Süleymân Hân asrında harem bünyâd olunub,Bu serâyda Harem binyâd olmamışdır. Ba‘de Selîmân Hân-ı ‘asrında Harem-i binyâd olunup.
+test_00596,ayrılırsam mesut olmaklığımın ihtimali yoktur.,ayrılırsam mesut olmaklığımın ihtimali yoktur.
+test_00597,kemal-i tevekkülden ibarettir.,kemal-i tevkilden ibarettir.
+test_00598,"Celâleddîn Ârif ve Hüseyin Avnî Beylerin, Erzurum’a muvasalatlarını müteakip, Celâleddîn","Celâledîn ‘araf ve hüseyin avnebeklerin, Erzurum’a muvasaletlerini müteakip, Celâladdîn"
+test_00599,Mart 922 teklifinde: Bütün Anadolu ve dolayısıyla İzmîr de bize iade olunacak tarzında,Mart 922 teklifinde: Bütün Anadolu ve dolayısıyla İzmir’de bize Âde olunacak tarzda
+test_00600,kadınla evlendirmek istiyormuşsunuz ki o benim iki,kadınla olundurmün istiyormuşsınıza o benim iki
+test_00601,"1) Meclis-i Mebûsân’ın bir an evvel, içtiması elzemdir. Şu sırada bazı mebusların Ankara’ya davet","1) Meclis-i Mivasân’ın, bir an evvel, içtima’u elzımdır. Şu sırada bazı mebusların Ankara’ya devt"
+test_00602,rakîk sütûnlar üzre deryâya nâzır ve sağ tarafı çârsûya nâzır tabakalar vardır.,rakîk sütunlar üzere deryâya nâzır ve sağ tarafı çarşıya nâzır tabakalar vardır.
+test_00603,vereceğini bilemeyerek harap oluyordu.,vereceğini bilemeyerek harap oluyordu.
+test_00604,helalim.,hilalım...
+test_00605,sonra karındaş olmak dahi kahramanlık,sonra karındaş olmak dahi kahramanlık
+test_00606,"açıldığı zaman, orada bir seneden beri devam eden bu orospu oyununun","açıldığı zaman, orada bir senden biri devam eden bu orusuyo oyunun"
+test_00607,ve kanatların okcubaşıya verirler. Bunlar da şikârlarıyla geçerler.,ve kandâların okcu yaşıya verirler. Bunlar da şükârlarıyla geçerler.
+test_00608,ve fakat bu tebessüm gözlerini kamaştırdığı cihetle kızın,ve fakat bu tebessüm gözlerini kamıştırdığı cihetle kırın
+test_00609,vilâyetini yirmi günde feth olunub bu hakîrin eline yirmi esîr bahâsı girdi.,valık yirmi günde feth olunub bu hakîrin eline yirmi esir bahası gerdi.
+test_00610,"Üslûb üzere cümle ağaları, yüzbaşıları, işrârları atlı, lağımcıbaşı","İslûb üzere cümle ağaları, yüzbaşıları, eşrârları atlı, lazımcaşı"
+test_00611,bir kundakla derhal Müfti Efendi şehit edilmiştir.,bir kundakla derhâl-ı müfetti Efendi şehîd edilmiştir.
+test_00612,karşılarındaki kadın Tahtacı Dimitri,karşırlarındaki kadın tahtecci demeteri
+test_00613,vukūʻıyla bir cânib bir mikdâr teşviş ve ihtilâlpezîr olsa,ve kavʻile bir cânib-i bir mikdâr teşvîs ü ihtilâl pîz bir olsa
+test_00614,"Ve bu merhamet sevkiyle, onu hayatına artık almak mümkün olmadığını","Ve bu merhamet sokuyla, onu hayatına artık almak mümkün olmadığını"
+test_00615,963,3_6
+test_00616,"Kilidi, içerisi, taşrası, bekâsı, kemâli nedir? diyenlere cevâb: ol","gelidi, içeri, dışarusu, bakası, kemâli ne dör? Dînlara cenâb: Ol"
+test_00617,Şiir dahi hadd-i zatında bir fen sayıldığı halde bu asr-ı,Şiir dahi hadzatında bir fen sayıldığı hâlde bu asır
+test_00618,"Evet, Gülter ancak hizmetçi olarak tanıdığı, ve hizmetçi olarak","Evet, Gülter ancak hizmetçi olarak tanıdığı, ve hizmetçi olarak"
+test_00619,bir şems-i marifet tulu etmesin? Bu iştigalât-ı mühimme,bir şems-i maarifet tav-ı etmesin? Bu iştigalat mühim'e
+test_00620,acemî oğlanları pürsilâh saf saf olub etmekcibaşı ve fodula kâtibi,‘acamî oğlanları pür-silâh saf-ı saf olub etmekci başı ve fatora kâtı
+test_00621,ve üzerinde tâk-ı eyvânlar- kubbe-i sernigûn rusâs ile mestûr nîlgûn,ve üzerinde tâk-ı Evânlar kubbe-i serngûn risâs ile mestûr-ı nîl-i gün
+test_00622,"kumandanlarla beraber kendisine, emrettiğimiz vazifeleri ifaya çalıştı. Bu hâl, bütün Türk","kumandanlarla beraber kendisine, emrettiğimiz vazifeleri ifaya çalıştı. Bu hal, bütün Türk"
+test_00623,"havlasalar bile, yüzlerine karşı, ve zahirde yine tebrik eder görünmekte","hâolsalar bile, yüzlerine karşı, ve zahirde yine tetberin eder görünükte"
+test_00624,[Vesika: 112],[Vesika: 122]
+test_00625,Hâsiyyet-i Terlerdirek-Bir âdem sudâ‘a mübtelâ olub bu ‘amûdun ‘arakından,Hâsiyet-i türler dermek- Bir âdem-i sedâ‘a mübtelâ olub bu ‘amûdun ‘arkından
+test_00626,leşerek i'lan-ı husumet ederse hal,leşerek ilan husumet eder ise hal
+test_00627,ü şebâbetinin istinad gâhı addettiği kocasına,ve şebabetin istinat kâhî-i ettiği kocasına
+test_00628,bu muhabbet iki taraftan aynı şiddetle başladı.,bu muhabbet iki tarafdan aynı şiddetle başladı.
+test_00629,"sanırım. Burada, sevdiği bir siyasi entrika ile düşmanlar tarafından tevkif","sanırım. Burada, sevdiği bir siyasî intirika ile düşmanlar tarafından tevkif"
+test_00630,ikimizin nikahını kıydığı halde bir Papaz,ikiimizin nükâhını kıldığı hâlde bir Papaz
+test_00631,felaketinde yirmi yaşında bir âşık tehevvürüyle feveran ederek,Felaketinde yirmi yaşında bir âşık tahurüyle feveran ederek
+test_00632,işidüb (İmparator İpol) [2] dedikleri ya’nî kendüye zann edüb ve bu kadar feryâd-,İşîdûb (İymir-i etvrânbûl) [2] didiklerini kendüye zann edüb ve bu kadar feryâd-
+test_00633,Şefik Nuri vereceği havadisin fevkalade cazibesini saniye saniye,Şefik Nuri vereceği havadisin fevkalade cazibesini saniye saniye
+test_00634,"Bir müddet daha geçti. Bir gece bey, cebinden bir mahfaza",bir müddet daha geçti. Bir gece Bey cibinden bir muhafaza
+test_00635,Koca Sultân Süleymân Hân kırk sekiz sene pâdişâhı esnâsında bütün,Koca Sultân Süleymân Hân-ı kırk sekiz sene pâdişâhluğu esnâsında bütün
+test_00636,küffâr yekdil ü yekcihet olub ‘asker-i İslâm-ı aldatmak üzere ziyâfetler ederek,küffâr-ı Yen cihet olub ‘asker İslâmı aldatmak üzre ziyâfetler ederek
+test_00637,"ettiği mazeret, tab-ı dimağî neticesi düçar olduğu daimî baş ağrısı idi. Aynı zamanda,","etti manreti, tespi nokı neticesi düçar olduğu daimi başı ağrısı idi. ‘aynî zamanda,"
+test_00638,"İşte, Ferîd Paşa’nın kabine arkadaşı Hâdi Paşa, sıkışmış olan padişahın ve Ferîd Paşa’nın,","İşte, Ferid Paşa’nın kabine arkadaşı hadi Paşa, sıkışmış olan padişahın ve Ferdişanın,"
+test_00639,söylemekle iktifa edeceğim.,söylemekle iktifa edeceğim.
+test_00640,mde nefrete şâyanı nefret olduğunu gösterdiğim:,Müde neferete şayan olduğunu gösterdiğim:
+test_00641,pür-envârı Kerbelâdadır. İmâm Hüseyin ile berâber şehîd olmuşdur. Çok Yezîdî,pürenüvarı kirüblededir. Amm-ı hüseyin ile berâbir şehîd olmuşdur. Çok yüzîdü
+test_00642,"demeyiniz... Çünkü onun nasîb-i hilkati sende, seninki","deminiz... Çünkün nasip halkati sende, seninki"
+test_00643,Müslümanlık kusurunu da bulamıyor idi.,meslimanlık kusurunu da bilemiyor idi.
+test_00644,"Bir kocanın meyusiyeti, bir kadının hevesât-ı bîsebatı,","bir kocanın müyvesti, bir kadının hevest-i bî sabatı,"
+test_00645,"Kırk yaş... Bu, gençliğin son merhalesidir.","Kızkyaş... Bu, gençliğin son murahalesidir."
+test_00646,Avrupa büyük Ermenistan yapmıyor. Sizin Sadrazam Toros’tan hudut veriyor. Ermenistan,Avrupa büyük Ermenistan yapmıyor. Sizin Sadrazam durustan hudut veriyor. Ermenistan
+test_00647,"Erkânıharbiyeiumûmiye Riyâseti, Garb Cephesi Kumandanlığı’nın bu teklifini kabul etmedi. Çünkü","Erkân-ı Harbiye-i umumiye Riyâseti, Garp Cephesi Kumandanlığı’nın bu teklifini kabul etmedi. Çünkü,"
+test_00648,ne de hiçbir kimseyle cenk etmeyeceklerini ve ne zaman,nede hiçbir kimse ile cinin etmeyeceklerini ve ne zaman
+test_00649,peyderpey tespit ve ihzara sa’y edecektir.,piderini tespit ve ihazara sa’y edecektir.
+test_00650,Esnâf-ı dellâlân-ı Bedestân-ı Enderûn- Pîrleri (Ebü'n-nidâ)dır. Bunlar da,Esnâf-ı dellâlân-ı bedestân-ı enderûn- Pîrleri (Ebâl-endâ) dir. Bunlar'da
+test_00651,"tüccarlardan ve hayvanat bey ü şirası yla iştigâl edenlerden on beş kadar zevatı,",teccârlardan ve hayvanât-ı Bî’i ve şirâsıyla iştigal edenlerden on beş kadar zevâtı
+test_00652,yedine istiklâl virüp hükmüne râzı olmak gereklerdir,yedine istiklâl ve perüb hükmüne râgı olmak gereklerdir
+test_00653,mü’ezzin mahfilindeki hurdegîr san‘atlarını Sinob kal‘asındaki minberden başka bir minberde,mü’ezzin mahfânda ki hairde gir sıntlarını Sinnüp kal’asındaki müneberden başka bir müneberde
+test_00654,"Bu hususu, 11 Teşrinievvel’de, Cemâl Paşa’ya yazarak, Kabine’nin nazar-ı dikkatini celp etmek istedik.","Bu hususu, 11 Teşrin evvelide, Cemal Paşa’ya yazarak, kabine’nin nazar-ı dikkatini celp etmek istedik."
+test_00655,göre ve makam-ı nezareti yeni teşrif buyurmuş olmaları itibarıyla layık-ı istihdam olan memurîni,göre ve makam nazareti yeni teşrif buyurmuş olmaları itibarıyla layık istihtam olan memurunu
+test_00656,"hakkında Erkân-ı Harbiye-i Umumiye Riyaseti’ne de maruzâtta bulunmuştu. Re’fet Paşa, Cenup Cephesi’nden","hakkında Erkân-ı Harbiye-i Umumîye Riyâseti de maruzâtta bulunmuştu. Ref’et Paşa, Cenup Cephesinden"
+test_00657,hayatını zincirlemişti.,hayatını zincirlemişti.
+test_00658,Fotos'un mahpus olduğu odaya gide-,Fotos'un mahbus olduğu odaya gid-
+test_00659,dolu dizgin Yanya'ya gelip doğruca,dolu dizkin yaniyeye kap doğruca
+test_00660,İlk vürut eden Arnavutlar meyanında bir,İlk vürut eden Arnavutlar meyanında bir
+test_00661,-Türk.. Hâlâ yüklerinle beraber fikirlerini de benim,- Türk.. Hâlâ yüklerinle beraber fikirleriği de benim
+test_00662,ve Cübbe ‘Alî hazretleri neslinden bir zât tarafından binâ olunmuşdur. Bu zât Bâyezîd-i,ve cebâ‘ilî hazretleri neslinden bir zat tarafından binâ olunmuşdur. Bu zât Bâyezîd
+test_00663,derecesi bize kifayet eder. Aferin Rüstem!,derecesi bize kifayet eder. Efirin Rüstem!
+test_00664,"sakameti tenkid tashih eder, evham üzerine müesses olan","sakameti tenkid tashih eder, o hâm üzerine müesses olan"
+test_00665,zampara almaya karar vermiş olduğuna şüphem kalmadı.,zampara almaya karar vermiş olduğuna şüphem kalmadı.
+test_00666,Fakat tahammül kabil olmaz. Çünkü nöbeti anlarında bazen,Fakat tahammül kabil olmaz. Çünkü nöbeti anlarında bazen
+test_00667,"feth olunub cebehâneleri ve mâl-ı ganâ’imler- alındı. Bu kal‘alara Zirinoğlu,","feth olunub cebhe hâneleri ve mâl-ı gana’mler alındı. Bu kal’a lara zerîn uğlu,"
+test_00668,imkan açtığından filhakika asıl faydası,Osmakân açtığından fi’l-hakika asıl-ı faydesi
+test_00669,Mustafa Kemâl,Mustafâ Kemâl
+test_00670,takdir eder. Binâenaleyh devlet ve milletimizin dahilî ve haricî istiklali ve vatanımızın tamamîyeti mahfûz almak,kadar eder. Binaenaleyh Devlet ve milletimizin dahilî ve harici istiklalı ve vatanımızın tamamiyeti muhafuz kalmak
+test_00671,"kırk kilometre uzaktadır. Bundan maada, geri çekilmiş olan düşmanı katî taarruzla ve zorla",kırk giliylu müterve uzaktadır. Bundan muâ‘adâ Geri çekilmiş olan düşmanı katî taarruzla ve zorla
+test_00672,üç yüz yigirmi altı oldu deyü sikadan istimâ‘ olunmuşdur. Bir gece elli beşik sallanub,üç yüz yigirmi altıdır da takadan istimal ülenmişdir. Bir gece elli beşik sallânûb
+test_00673,- Gelin hanımın ismi ne?,- Kelin Hanımın esmini ne?
+test_00674,"bularak beğendiği tavırlarla selamlar vererek, boyunlar kırarak, gösterilen","bularak beğendiği durlarla senlamlar vererek, bu bunlar kırarak, gösterilen"
+test_00675,"telefonda aramadıktan başka, şimdi ben arıyor, sizi bulamıyordum...","Telefonda aramadıktan başka, şimdi ben arıyor, sizi bulamuyordum..."
+test_00676,ne yazık ki pek genç...” diye sızlamıştım... Bu sonra lütfunun sayesinde,ne yazık ki’nin genç...” diye sızlaştım... Bu sonra lütfük seyesinde
+test_00677,Şimdiden haber verelim ki Ali Paşa ile,şimdiden haber verelim ki Ali Paşa ile
+test_00678,"eden mufassal ve tam bir Kanun olmayıp, memleketin teşkîlat-ı mülkiye ve idariyesinde icabât-ı zamanın",eden müfesil ve talim bir konun olayup memleketin teşkîlât-ı millkiye ve idariyesinde imhabet zamanın
+test_00679,yürütüyorsunuz ki buna bence hiçbir diyecek olmadığından,Yorguduyorsunuz ki buna bence hiçbir diyecek olmadığından
+test_00680,"Fâtma, ufkları ezen, dünyaya zahmet veren karanlıklara dalmışdı.","Fâtma, efkları ezen, dünyaya zahmet veren karanlıklara dalmıştı."
+test_00681,"Hanımlar, mebhut ve hayran kalmışlardı.","hanımlar, mebhut ve hayran kalmışlardı."
+test_00682,tazyîk ederdi ki yerden kımıldamağa mecâli kalmadı. Hemân şeyh hazretlerine teveccüh-i,tazyîk ederdi ki yerinden kaldamaya mecli kalmadı. Hemân şeyh hazretlerine teveccüh
+test_00683,Bu bârûtcı esnâfı da arabalar üzere havânlarda gûnâgûn bârûtları döğerek,Bu bârûtçu esnâfı da arabalar üzere hâvûnlarda gûnâgûn bârûtlar dökerin
+test_00684,eder. Cümle eyâleti kurâdır. Beş nâ’ibi hükûmet eder. Senevî bervech-i adâlet,eder. Cümle eyâleti karâdır. Beş tâ’î hükûmet eder. Senû-yı berve ‘adâlet-i
+test_00685,u iʻânete her iki takdirce ihtiyâc veya ʻadem-i ihtiyâclarına nâzır ve ʻârif zâbitân,ve ittih ihtiyâc uyaʻdʻdim ihtiyâ cülerine tarûʻâr-ı zâbitân
+test_00686,"Efendiler; Rızâ Paşa Kâbinesi ve o kabinede, Harbîye Nâzırı olan zat; aziz vatanımızı işgal","Efendiler; Rızâ Paşa Kâbinesi ve okabında, Harbiye Nâzırı olan zat, aziz ve tanimizi işgal"
+test_00687,Solyotların palaçka edecek ne serveti,Solyotların palacaka edecek ne servetürü
+test_00688,müş bulunduğumuz müzakere birkaç defa daha,miş bulunduğumuz müzakere birkaç defa daha
+test_00689,Debîri lütf-ı Hâdî çün ana kam‘-ı atâ yazub,debiyeri lütf-i hâdî çün-i ikâkı‘ ‘Atâ yazdı
+test_00690,"Eminden, o da Hazret-i Rabbe’l-‘âlemîn (celle celâluhu)nin bî-nihâye keremlerinden",emînden. O da Hazret-i rubü'l-i ilâ‘ilîmîn (Cel-i Celâle)nîbî Nihâye görümlerinden
+test_00691,"Nihayet, Heyet-i Temsiliye azası olarak, Erzurum’dan üç kişi Erzincan’dan bir kişi ve Sivas’ta","Nihayet, Hey’et-i Temsiliye azası olarak, Erzurum’dan üç kişi, erzincândan bir keşi ve Sivas’ta"
+test_00692,Birinci Bap,birinci bab
+test_00693,"edeceğini söylemiş... Ve daha birtakım vaatlerde bulunmuşsa da, kendi de","edeceğini söylemiş... Ve daha birtakım ve adelerde bulunmuşsa, kendi de"
+test_00694,Oh ne solgundu...,O zah nasolağındı...
+test_00695,-Bir kadın... Bir kadın ölüsü görmüş...,-Bir kadın... Bir kadın evvelisi görmiş...
+test_00696,müsaade üzerine tedarik eylediği gemileri,mesaade üzerine tedarın eylediği kemileri
+test_00697,"Böyle ihtiraz, endişe ve tereddüt arasında ruhunda peyda olan bu emel","Böyle ihtiraz, endişe ve tereddâr esinde ruhunda peyda olan bu emil"
+test_00698,Rûm dabbâğları pîrimiz Ah-i Evrandır derler. Ammâ sahîhi Hazret huzûrunda pîr,Rum dağları pîrimiz âh orandır derler. Ammâ sahîhi Hazret-i huzûrunda pîr
+test_00699,"- Evet, bugün Fehamet Hanım’la validesini umuyorum... Onlar","-Evet, bugün Fehamet Hanımla validesini umuyorum... Onlar"
+test_00700,Samuel!.......,samuel!....
+test_00701,"ettiğinden, bir an yine genç kadın eski barit ve âzim benliğini bulmuş oldu-","ettiğinden, bir an yine genç kadın eski bard ve azim benliğini bulmuş oldu"
+test_00702,Solyot kendi akrabasından bulunan bir kızın,Solyot kendi akribasından bulunan bir kızın
+test_00703,"edemeyince kendi tabağına dönmüştü. Ben, tehlikeden kurtulmuş,","edemince kendi tabağına dönmişti. Ben, tehlikeden kurtulmuş,"
+test_00704,sinde birkaç kere bulunmuşlardı. Bu aşk borsasından,sinde birkaç kere bulunmuşlardı. Bu aşk bursasından
+test_00705,müstehak olmak için elzem ise de yukarıda dahi arz eylediğim,müstahak olmak için elzem ise de yukarıda arz eylediğim
+test_00706,gelen bir revnakla dermiyan ettiği bu muhâkeme-i şuhâne,kalan bir runkla dermeyan ettiği bu muhakeme-i şuhâne
+test_00707,"Hristos Tepesi, buranın tenha, sessiz ve şairâne çamlıkları, ezelî","Hristos tepesi, buranın tenha, siz ve şairâne çamlıkları, ezeli"
+test_00708,Böyle baş ağrısı icat edecek kadar onu karartan ne olabilirdi?,Böyle baş ağrısı icad edecek kadar onu kararetan ne olabiliyordu?
+test_00709,mavi mavi halkalar peyda olur. Bulantı gelir. Sade,mavi mavi halkalar peyda olur. Bu leventi gelir. Sade
+test_00710,sevk olunurlar ise o yolda hizmet,sevk olunurlar ise o yolda hizmet
+test_00711,habisler kanlı niyetlerini fiile çıkarmak istemişler,habıslar kanlı niyetlerini fiade çıkarmak istemişler
+test_00712,getirerek bu âdemden ibret alun deyü va‘z u nasîhat ederdi. 180 yaşında,getirerek bu âdemden ibret alın düyûz u nasihat ederdi. 18_1 yaşında
+test_00713,Ziyâretgâhân-ı kasaba-i Zâlpaşa (el-Mevlâ Muslı Efendi) şerh-i Miftâh'a,Ziyâretgâhân-ı kasbe-i zâl-i Paşa- (el-Mevlâ Muslâ Efendi) şerh-i müfethâh
+test_00714,‘Azmî Efendi) Defterdâr Pîr Ahmed Çelebi'nin defter-i mâli olan ‘Azmî Efendi’dir.,‘azmî Efendi) defterdâr pîr Ahmed Çelebi'nin defter-i mâli olan ‘azmî Efendîdir.
+test_00715,tarafından devam eden taarruzive tedafüi hareketlerle üç,tarafından devam eden taarru ve tedafı hareketlerle üç
+test_00716,"murabba‘: ""Eve tulate matuzine sultâne râhime Ebûrefâkete hanifese sultâne yane"" diye","Herba-i “Avtûlâta matûzîne Sultâne râhma İyr-i tekte habbıfse Sultâniyâne"" diye"
+test_00717,"câmi’ parçalara tesâdüf olunuyor. Bunlara şiir, kâ’illerine","câmi‘ pâriclere tesadüf olunuyor. Bunlara şiir, kâ’allarına"
+test_00718,sıhhat husûsunda dahî ulûm-u sâireye fâ’ikdir. Marangozluktan,saht hususunda dahi ulûm-ı saireye fâ’iktir. Marangızdan
+test_00719,"ettirmek için Hey'et-i Teftîşiye Riyâsetleri vasıtasıyla, Şeyh Muhsin-i Fânî’nin ve Dahiliye Nâzırı’nın","bittirmek için heyet-i taktişiyye Riyasetleri vasıtasıyla, şeyh Muhassan-ı kâlinin ve dahilîye nazırının"
+test_00720,"Evet, Perran ihtimal birini sevmiştir, zaten daha evvelleri acaba sevmemiş miydi?","Evet, Perran ihtimal birini sevmiştir, zaten daha evvellerini ucbasıma müşmidi?"
+test_00721,zevcesinin üzerine hıyanet etmek istidadında,cesinin üzerine hayanet etmek istiadan
+test_00722,"Biraz sonra, vücudu bütün bu zıt hislerin hücumuyla titrediği","Biraz sonra, vücudü bütün bu zed-i hasların hücumuyla titrediği"
+test_00723,yamru yumru oluyor...,Yamırı yorru oluyor...
+test_00724,geçeceğinizi memul ederim. Heyet-i Vekile ile aranızda mahsus ihtilaf-ı nazar bertaraf edilir.,geçeceğinizi memûl ederim. Heyet-i Vekîye ile aranızda mahsus ihtilân nazar bertaraf edilir.
+test_00725,"derinliklerine inmeye uğraşıyor, her şey esassız, yalan","derinliklerine inmeye uğraşıyor, her şey esasız, yalan"
+test_00726,"Fahri Cemal birde ona otomobilini gönderecek, ve genç kadın ikiye","Fahri Cemal bir de ona otomobilini göndercek, ve genç kadın ikiye"
+test_00727,Çarşusu cümle bin seksen beş dükkândır. Gerçi bezzâzistânı yokdur.,çarşusu cümle bin seksen beş değândır. Görci bizâzistânı yokdur.
+test_00728,- Ah bilsen Periciğim... Ne kadar mesut olacağız... Seyahat,- Ah bilsek periciğim... Ne kadar mesut olacağız... Seyahat
+test_00729,kabil-i istinaf bir hüküm mahiyetini haizdi. Hepsinin birer musaddak ehemmiyeti,kabil istiyaf bir hükm-i mahiyetini hâizdi. Hepsek birer maskahiyeti
+test_00730,"ve kazalarda icap eden tebligât icra, iyi neticeler vereceğini ümit, etmekteyim. Cümlenize","vakzullarda icap eden tebligât icra, iyi neticeler vereceğini ümit, etmekteyim. Cümleze"
+test_00731,"hânesi 1, yeniçeri samsonhânesi 1, yeniçeri zağarcıhânesi 1,","hânesi 1, yeniçeri samsûn hânesi 1, yeniçeri z Garcı hânesi,"
+test_00732,"ne Fuat, ne Perran tayin edemezlerdi, fakat aşağıda ihtizar teşennüçleri","ne fakat, ne Perran tayin edemezlerdi, fakat aşağıda, ihtizaretişçleri"
+test_00733,Kelime bekelime ezberledim.,gelime bekime ezbirildim.
+test_00734,"Bunları söylerken emsalsiz bir meraretle kendi kendine, acı acı","Bunları söylerken imsalsız bir meraretle kendi kendine, acı acı"
+test_00735,add olunan hücerât hurde-bîninin eb’âdını ulûm-u riyâziye,Add olan hacerât-ı harde yeniyenin ibmadını ulum-ı riyaziyye
+test_00736,"mandolin, kitara çalan erkekler, ve kanzonetta Napolikana terennüm eden","mandolan, kitara çalan erkekler, ve kançutena, Napoliyana ternm eden"
+test_00737,- Beyefendi... Sizi çağırıyor efendim...,- Beyefendi... Sizi çağırıyor efendim...
+test_00738,"- Kızım, mosmor kesilmişsin nedir bu hâlin?",- Kızım Moshur kesileşsin nedir bu hâlin?
+test_00739,seria muntazır bulunduklarını arza delalet etmemi rica etti.,seri’a muntazır bulunduklarını arza delalet etmemey rica etti.
+test_00740,‘ahdinde o top kandîl ile tebdîl olunmuşdur. Eski celî yazıları hattât tekneci,‘Ahdinde otup kandîl ile tebdül olunmuşdur. Eski celi yazıları hatat-ı teknedi
+test_00741,"haricî ve dahilî düşmanların ve padişahın müttefikan, ‘Alî Rızâ Paşa Kâbinesi yerine, kendi nokta-i nazarlarını,","harici ve dahilî düşmanların ve padişahın müttefeken, alî Rızâpaşa Kâbinesi yerine, kendi noktainazarını,"
+test_00742,meslekdir. Kış vakti oda sohbetleri hoş olur. A‘yân u kibâr re’îsler,meslekdir. Kış ve katî odda sahbetleri hoş olur. İ‘yân ve kibâr reisler
+test_00743,mebni Erzurum’a ricat eylemiştir.,“Beni Erzurum’a ric’at eylemiştir.
+test_00744,birçok zîkıymet evânî gelince hepsini birden bu tekyeye vakf etmişdir.,bir çok zîkıymet onu hadiyye gelince hepsini birden bu tekyeye vakf etmişdir.
+test_00745,Rüstem:,Rüstem:
+test_00746,"bir noktasına bastı, o zaman piyano refakatiyle bir keman konseri başladı.","bir noktasına bastı, u zaman Piyân u refakatıyla bir küman konseri başladı."
+test_00747,5-Afyonkarahisârı’ndan Alaşehir’e alay nakletmek.,5- Afyonkarahhasarından alaşhıra alay nakal etmek.
+test_00748,yavaştır. Yumuşak başlıdır. Beyini çok sever.,bu vaştır. Bu şak başlıdır. Binni çok sever.
+test_00749,hiç buna tahammül olunur muydu?,hiç bu kâ tahammül olunur muydu?
+test_00750,Hem galebe ettiğim zaman sevgili karındaşın,hem galebe ettiğim zaman söğülü karındaşın
+test_00751,"bir yer gösterdi. Havzın yanında siyah bir leke... Fâtma bakdı, dikkatle","bir yer gösterdi. Huzun yanında siyah bir leke.. Fâtma baktı, dikkatla"
+test_00752,cevab-ı kati vermemekte olması Solyo-,cevap kati vermemekte olması Solyo-
+test_00753,"etmek murâd eden ehl-i arz tâifesi atlar, arabalarla gelüb bundaki","etmek Murâd eden ehl-i ‘arzı dâ’ifesi atlar, arabalar ile gelüb bundaki"
+test_00754,Anladınız mı?,geldiniz mi?
+test_00755,adettir. Hatta bundan evvelce Maryola dahi,âdetir. Hatta bundan olca Maryola dahi
+test_00756,tehlike için eslem-i tarik nedir?,tehlike için eslem tarik nedir?
+test_00757,"havâss-ı hamsesine zamimeten, Binnaz’ın fart-ı sevdâsıyla,","havas hümesine zamiyeten, Binnazın fert-i sevdasıyla,"
+test_00758,kendisinden ayrılmamış olmadıktan naşi bütün,kendisinden ayrılmamış olmaktan nâşı bütün
+test_00759,fırkamıza taarruza başladılar. İzzeddîn Paşa’nın metin karakteri ve vakıfâne kumandası ve maiyetindeki,Fırka’za taarruza başladılar. ‘Azaldın Paşa’nın metin karaketeri ve vakkına kumandanısı ve mümmiyetindeki
+test_00760,samîlerine ehemmiyetle vaz ederim. Meclis riyasetiyle başlayan muhaberenizin istilzam ettiği muamelenin,samilerine ehemmiyetle vaz ederim. Meclis Riyasetiyle başlayan muhâberinizin istizam ettiği muamele’nin
+test_00761,Esnâf-ı ehl-i kanâ‘at gömlekciyân- Pîrleri ibtidâ Hazret-i Şîs,Esnâf-ı ehl-ı kınâat gömleceyân- pîrleri ibtidâ Hazret-i şeyet
+test_00762,Esnâf-ı kettâncıyân- Dükkân (15) neferât (208) pîrleri ibtidâ Hûşeng,Esnâf-ı kütân-ı hayyân- Dükkân (10) neferât (10) pîrleri ibtidâhûşnın
+test_00763,ibadete karşı esefsiz ve ebediyen teslim etmekle mesut oluyorlardı.,ibadete karşı esfsiz ve ebediyen teslim etmekle mesut oluyorlardı.
+test_00764,Hazret-i Süleymân- vâkıf-ı esrâr olunca mezkûmeyi babası gibi katl etdi.,Hazret-i Süleymân-ı vâkıf-ı esrâr olunca merkûmayı babası gibi katl etdi.
+test_00765,"etmek, en yüksek bir zevk teşkil ediyordu.","etmek, en yüksek bir zevk teşkil ediyordu."
+test_00766,K 3 . Kumandanlığı’na,K. Komandanlığı’na
+test_00767,"incitecekdi, ben istiyordum, bu benim hakkımdı o beni bırakırken","inciyetecekti, ben istiyordum, bu benim hakkımdı u bey’i bırakırken"
+test_00768,- Siz öyle söyledikten sonra ben yine itimadı-,- Siz öylesoldikten sonra ben yine itimat-
+test_00769,- Ah babacığım evvelden bu kadar ince düşüne idiniz,- Ah babağım oldan bu kadar ince düşüne ediniz
+test_00770,sürünecekti öyle mi?...,sürünecekti öyle mi?...
+test_00771,küffâr dahi cânını dâr-ı cahîme salub cümle guzât mansûr u muzaffer ve şâd u handân,küffâr dahi cânını dâr-ı cahîme sâlûb cümle gazât-ı mensûr ve muzaffer ve şâd u hundân
+test_00772,kımıldanarak:,kımdadarak:
+test_00773,"Kâsım Paşa, Dâvûd Paşa, Muhammed Paşa bin Hızır Beğ, Ahmed Paşa-yı Fenârî , İbrâhîm","Kâsımpaşa, dâvid Paşa, Muhammed Paşa ben hazır Bey, Ahmed Paşa, fînârî, İbrâhîm"
+test_00774,"o zaman, henüz Birinci Ordumuzun Kumandanı bulunan Nureddîn Paşa da mebus olmak teşebbüsünde","O zaman, henüz birinci ordumuzun kumandanı bulunan Nureddîn Paşa’da mebus olmak teşebbüsütte"
+test_00775,"Bunlarda aslâ Çingâne yok. Bir alay rind-i cihân, Köçek-i Amr-ı Ayyâr, tâ’ife-i","Bunlar da ısla çengâne yok. Bir alay-ı rendçihân, Küçük ‘Amrû ‘iyâr, ta’ife-i"
+test_00776,ve teşebbüs teşkîl edecektir. Zaten Sivas muteberân-ı ahalisinden bazılarından mevsukan tahkik olunduğu,ve teşebbüs teşkil edecektir. Zaten Sivas müteberran ehalisinden bazılarından mevkki’l-i tahkik olunduğu
+test_00777,nâümidîye sevk etmeye başladı. [Vesika: 171] ve [Vesika: 172],namidiye sevk etmeye başladı. [Vesika: 122] V] Vesika: 231]
+test_00778,"kendilerine celp, bizi haksız ve düşmanımızı haklı göstermeye salahiyet verilmiş olur. Müşterek","kendilerine celp, bizi haksız ve düşmanımızı haklı göstermeye salahiyet verilmiş olur. Müşetizin"
+test_00779,ediverdi. Her şey yerli yerinde idi. Yalnız,idi verdi. Her şey yerli yerinde idi. Yalnız
+test_00780,Gezinirken hayatın son heyecan-ı sekriyle düşecek,gezbir iken hayanın son heyecan sekriyledecek
+test_00781,-Paşa ile Rüstem arasında böyle bir,- Paşa ile Rüstem arasında böyle bir
+test_00782,"Ancak, bu sabah nezd-i âcizâneme gelen vâkıf-ı ahval ve şayan-ı emniyet bir zat, Kütahya","Ancak, bu sabah nizd-ı aczân’a gelen vâfıf ahval ve şayan emniyet bir zat, gütâhya"
+test_00783,açsın. Hıyaneti fazla çıkan tarafa ne mücazat edeceksin?,açsın. Hayatı fazla çıkan tarafa ne mücazât edeceksin?
+test_00784,"Sana karşı her bir tezellülü, ihtiyara hazırım.","sana karşı her bir tezelli, ihtiyara hazırım."
+test_00785,"vermeye davet olunmuştum ki, gayriihtiyari: “Dove?” yani,","vermeye davet olunmuştim ki, gayr-i ihtiyarı: “Döve?” ya”"
+test_00786,"ve kendisinin aşkıyla, sekiz senelik bir ıstırap ve sefaletine rağmen sönmemiş,","ve kendisinin aşkıyla, sekiz senelik bir ızdırab ve sefaletine rağmensemiş,"
+test_00787,"daha büyükdür. Bu tekyenin mücellâ der ü dîvârında olan güzel yazılar, ‘ibretnümâ nakş-ı","daha büyükdir. Bu tekyenin mücellâ dürü dîvârında olan güzel yazılar, ibreti’mânış"
+test_00788,İşte Rumlar üzerine icra edilen,İşte Rumlar üzerine icra edilen
+test_00789,"hâlde gelen dedesi onu almış, bir gün sonra hemen oraya götürmüşdü.","hâlde gelen dedesi onu almış, bir gün sonra hemen oraya götürmüşdi."
+test_00790,-Kuva-yı bahriyemiz yedi sloop ve altı torpidoyu tecavüz etmeyecek ve hiçbir tayyare ve kabil-i,- Kuvâ-yı Bahriyemiz bedi [Pemdân ve altı darbhüdüyü tecavüz etmeyecek ve hiçbir’i’i’ye ve kabil
+test_00791,- Kimdir o?,- Kimdir o?
+test_00792,"vüzerasındadır-. Eskiden kilise imiş. Bir minâreli, tahtânî, kurşunlu, cemâ‘ati","vezrâsındandır. Eskiden kilîsâ imiş. Bir minâreli, tahtânî, kurşunlu, cemâ‘ati"
+test_00793,"Misak-ı Millî’mize mutabık olanları, esasen nazar-ı dikkatte tutulmakta ve icabâtına tevessül edilmektedir.","miyesak millîsize mutabık olanları, isasen nazar-ı dikkatta tutulakta ve icabetine tevessül edilmektedir."
+test_00794,bu düşüncelerle bir iki gece uyku uyuyamadı.,Bu düşüncelerle ber iki gece uyku uyuyamadı.
+test_00795,Lozan’da: Halli tehir edilmiştir.,Lozan’da: Hâli tehîr edilmiştir.
+test_00796,bir kerre zemherîr geceleri olurdu İslâmbolun sâhire avretleri ol bakır,bir kere zemhirir giceleri olurdu İslâmbûl'ın sâhire ‘avretleri ol bakır
+test_00797,tahlile uğraşıyordu?.. Niçin?.. Niçin?..,tahliyle uğraşıyordu?.. Niçin?.. Niçin?..
+test_00798,neşet eylediği cihetle kuyruktan dolan,nişeset eylediği cihetle koyruktan dolan
+test_00799,tensik ve yeni fırkalar teşkîl ederek 21’inci Kolordu’yu vücuda getirmiş..”,tensik ve yeni fırkalar teşkil ederek 15inci Kolordu ve cuda getirmiş...”
+test_00800,Solyotları Rüstem'den başkasına emniyet,Solyotları Rüstem'den başkasına emniyet
+test_00801,müstebat olamaz.,müstebit olamaz.
+test_00802,«Ali Paşa! Rüstem Beye gönder-,- “Alî Paşa! Rüstem Beye gönder-
+test_00803,bir surette diyordu ki:,bir sürttediyor idi ki:
